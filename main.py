@@ -8,6 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from urllib.request import urlopen
 import urllib
 import srt
+import requests
 
 waiting_interval = 4
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}
@@ -35,20 +36,29 @@ def get_classes_url_and_name(course_url):
     browser = webdriver.Chrome(executable_path='/Users/sherwood/.local/chromedriver')
     browser.get(course_url)
     elements = get_all_classes(browser)
-    length = len(elements)
+    #网易云课堂存在两种模式的课程页面，分类处理
     time.sleep(waiting_interval)
     classes_link = []
     classes_name = []
-    for i in range(length):
-        elements = get_all_classes(browser)
-        span = elements[i]
-        classes_name.append(span.text)
-        span.click()
-        time.sleep(waiting_interval)
-        classes_link.append(browser.current_url)
-        print(browser.current_url)
-        browser.back()
-        time.sleep(waiting_interval)
+    if len(elements) > 0:
+        length = len(elements)
+        for i in range(length):
+            elements = get_all_classes(browser)
+            span = elements[i]
+            classes_name.append(span.text)
+            span.click()
+            time.sleep(waiting_interval)
+            classes_link.append(browser.current_url)
+            print(browser.current_url)
+            browser.back()
+            time.sleep(waiting_interval)
+    else:
+        container = browser.find_element_by_xpath('//table[@id="list2"]')
+        browser.execute_script("arguments[0].style.display = 'block';", container)
+        elements = browser.find_elements_by_xpath('//table[@id="list2"]//td[@class="u-ctitle"]/a')
+        for i in elements:
+            classes_name.append(i.text)
+            classes_link.append(i.get_attribute('href'))
     browser.close()
     return classes_link, classes_name
 
@@ -72,9 +82,17 @@ def get_srt_url(url):
 
 
 def download_srt(url):
-    req = urllib.request.Request(url=url, headers=headers)
-    output = urllib.request.urlopen(req).read()
-    string = output.decode('utf-8')
+    r = requests.get(url, headers=headers)
+    string = r.text
+    # req = urllib.request.Request(url=url, headers=headers)
+    # output = urllib.request.urlopen(req).read()
+    # charset = 'utf-8'
+    # try:
+    #     string = output.decode(charset)
+    # except UnicodeDecodeError:
+    #     charset = 'gbk'
+    #     string = output.decode(charset)
+    # print(charset)
     return list(srt.parse(string))
 
 
@@ -86,12 +104,13 @@ def get_str_from_srt_list(srt_):
 
 
 if __name__ == '__main__':
-    course_url = 'http://open.163.com/newview/movie/' \
-                 'courseintro?newurl=%2Fspecial%2Fopencourse%2Fpositivepsychology.html'
+    # course_url = 'http://open.163.com/newview/movie/' \
+    #              'courseintro?newurl=%2Fspecial%2Fopencourse%2Fpositivepsychology.html'
+    course_url = 'http://open.163.com/special/sp/philosophy-death.html'
     print('Get classes link')
     classes_link, classes_name = get_classes_url_and_name(course_url)
     print('Finish classes link')
-    name = 'HappyClassHarvard'
+    name = 'Philosophy-Death'
     zh_en_fo = open("./book/{}_zh_en.txt".format(name), "a+")
     zh_fo = open("./book/{}_zh.txt".format(name), "a+")
     en_fo = open("./book/{}_en.txt".format(name), "a+")
