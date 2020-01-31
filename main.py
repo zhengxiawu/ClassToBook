@@ -5,8 +5,6 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-from urllib.request import urlopen
-import urllib
 import srt
 import requests
 
@@ -107,10 +105,10 @@ if __name__ == '__main__':
     # course_url = 'http://open.163.com/newview/movie/' \
     #              'courseintro?newurl=%2Fspecial%2Fopencourse%2Fpositivepsychology.html'
     course_url = 'http://open.163.com/special/sp/philosophy-death.html'
+    name = 'Philosophy-Death'
     print('Get classes link')
     classes_link, classes_name = get_classes_url_and_name(course_url)
     print('Finish classes link')
-    name = 'Philosophy-Death'
     zh_en_fo = open("./book/{}_zh_en.txt".format(name), "a+")
     zh_fo = open("./book/{}_zh.txt".format(name), "a+")
     en_fo = open("./book/{}_en.txt".format(name), "a+")
