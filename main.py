@@ -104,8 +104,8 @@ def get_str_from_srt_list(srt_):
 if __name__ == '__main__':
     # course_url = 'http://open.163.com/newview/movie/' \
     #              'courseintro?newurl=%2Fspecial%2Fopencourse%2Fpositivepsychology.html'
-    course_url = 'http://open.163.com/special/sp/philosophy-death.html'
-    name = 'Philosophy-Death'
+    course_url = 'http://open.163.com/special/justice/'
+    name = 'Justice'
     print('Get classes link')
     classes_link, classes_name = get_classes_url_and_name(course_url)
     print('Finish classes link')

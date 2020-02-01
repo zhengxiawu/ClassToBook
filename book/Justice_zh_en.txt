@@ -1,0 +1,1697 @@
+
+
+
+ Chapter 0: 谋杀背后的道德逻辑
+
+
+
+
+
+
+ Chapter 1: 为生命标价
+
+
+欲观看、下载高清视频，可移步
+www.AprilSeason.com
+www.AprilSeason.com 给生命贴上价格
+Putting a price tag on life 上一次，我们讨论了
+Last time, we argued about 英国女王与Dudley和Stephens案件
+the case of The Queen v. Dudley & Stephens, 一个发生在救生艇上，人吃人的案件。
+the lifeboat case, the case of cannibalism at sea. 我们讨论了发生在救生艇上的一些争论
+And with the arguments about the lifeboat in mind, 关于支持还是反对Dudley和Stephens的做法的争论
+the arguments for and against what Dudley and Stephens did in mind, 让我们回到哲学，边沁的功利主义哲学。
+let's turn back to the philosophy, the utilitarian philosophy of Jeremy Bentham. 1748年，边沁生于在英国。在12岁时，他去了牛津大学。
+Bentham was born in England in 1748. At the age of 12, he went to Oxford. 15岁时去了法学院。19岁时就拿到律师资格
+At 15, he went to law school. He was admitted to the Bar at age 19 但他从来没有从事法律。
+but he never practiced law. 相反，他毕生致力于法学和道德哲学。
+Instead, he devoted his life to jurisprudence and moral philosophy. 上一次，我们开始谈到了边沁的功利主义。
+Last time, we began to consider Bentham's version of utilitarianism. 其主要思想可以表达为：
+The main idea is simply stated and it's this: 不论是个人或政治道德，道德的最高原则，
+The highest principle of morality, whether personal or political morality, 就是为了将大众福利、集体的幸福最大化
+is to maximize the general welfare, or the collective happiness, 或在快乐和痛苦之间找到平衡点;
+or the overall balance of pleasure over pain; 一句话，效用最大化。
+in a phrase, maximize utility. 边沁是经过以下的推理，得出这个原则：
+Bentham arrives at this principle by the following line of reasoning: 我们都是受痛苦和快乐支配，
+We're all governed by pain and pleasure, 他们就像统治我们的君主，所以任何道德体系
+they are our sovereign masters, and so any moral system 都要把它们考虑进去。
+has to take account of them. 怎么才能最优地把这两者都考虑到？通过最大化。
+How best to take account? By maximizing. 这也就引出了：追求最多数人的最大利益的原则。
+And this leads to the principle of the greatest good for the greatest number. 那么我们应该把什么最大化呢？
+What exactly should we maximize? 边沁告诉我们，是幸福，或者更准确，效用 -
+Bentham tells us happiness, or more precisely, utility - 将效用最大化，不仅是对个人
+maximizing utility as a principle not only for individuals 还有集体，及立法者。
+but also for communities and for legislators. “那什么是集体？”边沁问道。
+"What, after all, is a community?" Bentham asks. 那就是组成这个集体的所有个人的总和。
+It's the sum of the individuals who comprise it. 这就是为什么，在决定什么是最好的政策时，
+And that's why in deciding the best policy, 在决定法律应该怎么制定，在决定什么是公正时，
+in deciding what the law should be, in deciding what's just, 公民和立法者应该问自己一个的问题
+citizens and legislators should ask themselves the question 如果我们把这一政策的所有好处加起来
+if we add up all of the benefits of this policy 再减去所有的成本
+and subtract all of the costs, the right thing to do 我们要做的就是平衡幸福和苦难后，找到最大值。
+is the one that maximizes the balance of happiness over suffering. 这就是效用最大化的意思。
+That's what it means to maximize utility. 今天，我想看看你是否同意这个观点，
+Now, today, I want to see whether you agree or disagree with it, 功利主义的逻辑常常是
+and it often goes, this utilitarian logic, 建立在成本和效益分析，
+under the name of cost-benefit analysis, 企业和政府一直也是这么做
+which is used by companies and by governments all the time. 它涉及到给所有东西赋予一个价值，
+And what it involves is placing a value, 通常是用美元来表示
+usually a dollar value, to stand for utility on the costs 成本和各种的收益。
+and the benefits of various proposals. 最近，在捷克共和国，有人提议
+Recently, in the Czech Republic, there was a proposal 增加吸烟的消费税。一家叫Philip Morris的烟草公司
+to increase the excise tax on smoking. Philip Morris, the tobacco company, 在捷克拥有庞大的生意
+does huge business in the Czech Republic. 他们委托做了个研究，进行成本效益分析
+They commissioned a study, a cost-benefit analysis 分析吸烟为捷克的成本与效益
+of smoking in the Czech Republic, and what their cost-benefit 分析发现，如果允许公民吸烟，政府将收益。
+analysis found was the government gains by having Czech citizens smoke. 他们怎么获益？
+Now, how do they gain? 虽然这对捷克的公共财政有负面的影响
+It's true that there are negative effects to the public finance 因为吸烟者增多，患病人随之增多
+of the Czech government because there are increased health care 对医疗问题的投入也要增多
+costs for people who develop smoking-related diseases. 另一方面，也有积极影响
+On the other hand, there were positive effects 这些积极的作用累积在账本的另一边
+and those were added up on the other side of the ledger. 这些积极作用，主要包括，
+The positive effects included, for the most part, 从销售卷烟产品中收取的各种税收
+various tax revenues that the government derives from the sale 而且还包括
+of cigarette products, but it also included 人们因病早死节省下来的医疗储蓄
+health care savings to the government when people die early, 以及养老金储蓄（他们过早地死去，你就不用支付养老金）
+pension savings -- you don't have to pay pensions for as long - 同时，节省了老人住房的费用。
+and also, savings in housing costs for the elderly. 而当成本和收益都加起来，
+And when all of the costs and benefits were added up, Philip Morris公司的研究发现，捷克政府的公共财政
+the Philip Morris study found that there is a net public finance gain 将有1.47亿美元的净增益
+in the Czech Republic of $147,000,000, 如果考虑到在住房、医疗、养老上的节省
+and given the savings in housing, in health care, and pension costs, 对于那些因吸烟而早死的，政府能在他们每个人身上
+the government enjoys savings of over $1,200 for each person 节省超过1,200元
+who dies prematurely due to smoking. 成本效益分析。
+Cost-benefit analysis. 现在，你们谁是支持功利主义的
+Now, those among you who are defenders of utilitarianism 你可以认为这是一种不公平的测试。
+may think that this is an unfair test. 报刊新闻攻击Philip Morris
+Philip Morris was pilloried in the press 他们为这一无情的数字而道歉。
+and they issued an apology for this heartless calculation. 你可能会说，功利主义缺少了一些东西
+You may say that what's missing here is something that the utilitarian 也就是人的价值
+can easily incorporate, namely the value to the person 以及这些死于肺癌的人所在的家庭。
+and to the families of those who die from lung cancer. 如果把人的生命价值也考虑进去会怎样？
+What about the value of life? 一些成本效益分析纳入了对生命价值的考量。
+Some cost-benefit analyses incorporate a measure for the value of life. 其中一起是有名的Ford Pinto案件。
+One of the most famous of these involved the Ford Pinto case. 你们之中有没有人读过这个案件？
+Did any of you read about that? 这是早在20世纪70年代。
+This was back in the 1970s. 你还记得Ford Pinto是什么？
+Do you remember what the Ford Pinto was, 是一种的车吗？有没有人知道
+a kind of car? Anybody? 这是一种小型车，超小的车，很受欢迎
+It was a small car, subcompact car, very popular, 但它也有问题，问题出在它的油箱
+but it had one problem, which is the fuel tank 因为油箱设在汽车的背部，与后方碰撞，
+was at the back of the car and in rear collisions, 油箱爆炸，炸死了一些人
+the fuel tank exploded and some people were killed 不少人严重受伤。
+and some severely injured. 这些受害者把福特告到法院。
+Victims of these injuries took Ford to court to sue. 而到了法庭上，结果是
+And in the court case, it turned out that Ford 福特早就知道油箱有问题
+had long since known about the vulnerable fuel tank 并且已做了成本效益分析，以确定是否应该
+and had done a cost-benefit analysis to determine whether it would be 要把它设在一个特殊的挡板里
+worth it to put in a special shield that would 保护油箱，来防止爆炸。
+protect the fuel tank and prevent it from exploding. 他们做了成本效益分析。
+They did a cost-benefit analysis. 计算每增加一个零件的成本
+The cost per part to increase the safety of the Pinto, 他们算出来，每个零件要11.00美金。
+they calculated at $11.00 per part. 在法庭上，福特呈上了成本效益分析
+And here's -- this was the cost-benefit analysis that emerged in the trial. 12.5万辆轿车和卡车，每辆车多花11美元
+Eleven dollars per part at 12.5 million cars and trucks 加起来一共要1.37亿美元的成本，来使其更安全。
+came to a total cost of $137 million to improve the safety. 不过，他们还计算了，用这笔钱来
+But then they calculated the benefits of spending all this money 做出一辆更安全的汽车，计算得出会有少死180人
+on a safer car and they counted 180 deaths 如果每个死者分到20万元
+and they assigned a dollar value, $200,000 per death, 180个死者，每人6万，然后维修的费用，
+180 injuries, $67,000, and then the costs to repair, 更换2000辆车的费用，
+the replacement cost for 2,000 vehicles, 这些无安全装置的车将被销毁，每辆700元。
+it would be destroyed without the safety device $700 per vehicle. 因此，收益变成只有四千九百五十万
+So the benefits turned out to be only $49.5 million 所以他们没有安装该设备。
+and so they didn't install the device. 不用说，当福特的这个备忘录
+Needless to say, when this memo of the 在开庭审理时呈上时，
+Ford Motor Company's cost-benefit analysis came out in the trial, 让陪审团感到震惊，这些陪审员都获得了巨额的补偿金。
+it appalled the jurors, who awarded a huge settlement. 这是功利主义的一个反面例子吗？
+Is this a counterexample to the utilitarian idea of calculating? 因为福特公司在计算的时候把生命价值也包括在内。
+Because Ford included a measure of the value of life. 现在，谁来为这个成本效益分析作辩护？
+Now, who here wants to defend cost-benefit analysis 这是一个明显的反例
+from this apparent counterexample? 谁要为其辩解？
+Who has a defense? 或者，你是否认为这完全违背了
+Or do you think this completely destroys the whole 整个功利主义的计算（原则）？
+utilitarian calculus? Yes? 嗯，我想，他们又一次犯了同样的错误
+Well, I think that once again, they've made the same mistake 跟以前的情况一样，他们为每条性命赋予了
+the previous case did, that they assigned a dollar value 一美元的价值单位
+to human life, and once again, 他们再次忽略了死伤者的家庭
+they failed to take account things like suffering 所遭受的痛苦。
+and emotional losses by the families. 我的意思是，他们不仅失去了家庭的收入来源，而且还失去了亲人
+I mean, families lost earnings but they also lost a loved one 这些不是20万美元能衡量。
+and that is more valued than $200,000. 对 - 等一下。你说得不错。你叫什么名字？
+Right and -- wait, wait, wait, that's good. What's your name? Julie Roteau
+Julie Roteau . Julie，如果20万美元是一个偏小的数字
+So if $200,000, Julie, is too low a figure 因为它没有考虑到失去亲人的损失
+because it doesn't include the loss of a loved one 以及这些年死去的生命
+and the loss of those years of life, what would be - 你认为，多少才算是一个比较准确的数值？
+what do you think would be a more accurate number? 我不认为我可以给一个明确的数字。我认为这种分析
+I don't believe I could give a number. I think that this sort of analysis 不能应用于与生命有关的问题。
+shouldn't be applied to issues of human life. 我认为不能用金钱来（解决）。
+I think it can't be used monetarily. 因此，Julie说，他们不只是给的数值太小
+So they didn't just put too low a number, Julie says. 而是，用数字来计算本身就是错的。
+They were wrong to try to put any number at all. 好吧，让我们听听其他人
+All right, let's hear someone who - 你还要考虑到通货膨胀。
+You have to adjust for inflation. 你还要考虑到通货膨胀。
+You have to adjust for inflation. 好的，很好。
+All right, fair enough. 那么，现在这个数目应该是？
+So what would the number be now? 这是35年前。
+This was 35 years ago. 200万美元。
+Two million dollars. 200万美元？你觉得要200万美元？
+Two million dollars? You would put two million? 你叫什么名字？
+And what's your name? Voytek
+Voytek Voytek说，我们把通胀考虑进来。
+Voytek says we have to allow for inflation. 我们要更慷慨一点。
+We should be more generous. 那么，你对这样思考关于正义的问题
+Then would you be satisfied that this is the right way of 满意吗？
+thinking about the question? 我想，不幸的是，现在
+I guess, unfortunately, it is for - 需要给出一个数字，我不肯定
+there needs to be a number put somewhere, like, I'm not sure 这个数字应该是多少，但我同意
+what that number would be, but I do agree that 用数值来衡量生命也是有可能的。
+there could possibly be a number put on the human life. 好的，在这里，Voytek不同意Julie的想法
+All right, so Voytek says, and here, he disagrees with Julie. Julie说，我们不能用数值来衡量生命
+Julie says we can't put a number on human life 来做一个成本效益分析
+for the purpose of a cost-benefit analysis. Voytek说，我们不得不这么做，因为我们必须作出某种决定。
+Voytek says we have to because we have to make decisions somehow. 其他人怎么想呢？
+What do other people think about this? 有没有人准备为这个成本效益分析辩护的？
+Is there anyone prepared to defend cost-benefit analysis 是不是数字越准确越好？是吗？请继续。
+here as accurate as desirable? Yes? Go ahead. 我认为，如果福特和其他汽车公司
+I think that if Ford and other car companies 没有使用成本效益分析，他们最终会歇业
+didn't use cost-benefit analysis, they'd eventually go out of business 因为他们无法实现盈利
+because they wouldn't be able to be profitable and millions of people 数百万人将无法开车上班，
+wouldn't be able to use their cars to get to jobs, 赚钱养活孩子。
+to put food on the table, to feed their children. 因此，我认为，如果不用成本效益分析，
+So I think that if cost-benefit analysis isn't employed, 在这种情况下，会损害大部人的利益。
+the greater good is sacrificed, in this case. 好的，让我补充一下。你叫什么名字？
+All right, let me add. What's your name? Raul。
+Raul. 劳尔，最近有项研究，关于开车时
+Raul, there was recently a study done about cell phone use by a driver 是否使用手机，并且引起一场争论
+when people are driving a car, and there was a debate 争论是否应被禁止开车使用手机。
+whether that should be banned. 是啊。
+Yeah. 因开车使用手机而死去的人
+And the figure was that some 2,000 people die as a result 每年约有2000人
+of accidents each year using cell phones. 然而，哈佛的风险分析中心
+And yet, the cost-benefit analysis which was done by the 做了成本效益分析，发现
+Center for Risk Analysis at Harvard found that 如果你看一下允许使用手机所带来的效益
+if you look at the benefits of the cell phone use 和因此而失去的性命，它们的价值差不多
+and you put some value on the life, it comes out about the same 由于，允许人们使用手机能带来巨大的经济利益
+because of the enormous economic benefit of enabling people 人们可以充分利用时间，达成交易，
+to take advantage of their time, not waste time, be able to make deals 与朋友交谈等。
+and talk to friends and so on while they're driving. 这是不是表明，用金钱来衡量一个人的生命
+Doesn't that suggest that it's a mistake to try to put 是错误的？
+monetary figures on questions of human life? 嗯，我认为，如果大多数人都想着
+Well, I think that if the great majority of people try to 计算出一个最大的效益值，
+derive maximum utility out of a service, 例如，使用手机所带来的便利
+like using cell phones and the convenience that cell phones provide, 为了得到这些便利，作出一些牺牲是必要的
+that sacrifice is necessary for satisfaction to occur. 你是一个十足的功利主义。
+You're an outright utilitarian. 是。好吧。
+Yes. Okay. 好的，最后一个问题，Raul
+All right then, one last question, Raul. - Okay. 我刚才问到Voytek一个问题，这个数字应该是多少
+And I put this to Voytek, what dollar figure should 把生命的价值考虑进去，才足以决定要禁止使用手机？
+be put on human life to decide whether to ban the use of cell phones? 嗯，我不想给出任意一个数字
+Well, I don't want to arbitrarily calculate a figure, 我的意思是，现在，我认为 -
+I mean, right now. I think that - 你一定要经过周密地考虑？
+You want to take it under advisement? 是的，我要经过周密地考虑。
+Yeah, I'll take it under advisement. 但如果粗略地计算，会是多少呢？如果是2,300人死亡。好。
+But what, roughly speaking, would it be? You got 2,300 deaths. - Okay. 你要给每个生命赋予一个值，才能知道
+You got to assign a dollar value to know whether you want 是否足以禁止开车时使用手机。 好的。
+to prevent those deaths by banning the use of cell phones in cars. - Okay. 所以，你预感是多少？100万？
+So what would your hunch be? How much? A million? 200万？ 200万是Voytek给的数字。 - 是啊。
+Two million? Two million was Voytek's figure. - Yeah. 是不是差不多了？ - 也许是100万
+Is that about right? - Maybe a million. 100万？ - 是啊。
+A million? - Yeah. 很好。谢谢。 好吧。
+You know, that's good. Thank you. -Okay. 这几天，出现了一些争议，
+So, these are some of the controversies that arise these days 关于成本效益分析的争议，尤其是涉及到
+from cost-benefit analysis, especially those that involve placing a 怎么衡量价值，最后加起来得到个数值
+dollar value on everything to be added up. 那么，现在我想来谈谈那些的反对意见
+Well, now I want to turn to your objections, 你不一定是反对成本效益分析
+to your objections not necessarily to cost-benefit analysis specifically, 因为这只是功利主义在实际生活中的一个版本而已
+because that's just one version of the utilitarian logic in practice today, 你可以，思考功利主义的整个理论
+but to the theory as a whole, to the idea that the right thing to do, 政策和法律是建立在效用最大化的原则上
+the just basis for policy and law is to maximize utility. 有多少人不同意功利主义，关于立法
+How many disagree with the utilitarian approach to law 和公众利益的原则？
+and to the common good? 有多少人同意？
+How many agree with it? 同意的人更多。
+So more agree than disagree. 因此，让我们听听那些批评的声音。
+So let's hear from the critics. Yes? 我觉得它主要的问题在于，我觉得你不能因为
+My main issue with it is that I feel like you can't say 少数人的利益和需求
+that just because someone's in the minority, what they want 就比大多数的利益，价值要小
+and need is less valuable than someone who is in the majority. 所以，我想，认为谋求最多人、最大化的效益
+So I guess I have an issue with the idea that the greatest good 这个想法有问题
+for the greatest number is okay because there are still - 那些占少数的人怎么办？
+what about people who are in the lesser number? 这对他们不公平。
+Like, it's not fair to them. 他们没有任何发言权。
+They didn't have any say in where they wanted to be. 好的。这是一个有趣的批判。
+All right. That's an interesting objection. 你担心的是那些占少数的人
+You're worried about the effect on the minority. 是。
+Yes. 你叫什么名字，顺便说一句？
+What's your name, by the way? Anna。
+Anna. 谁能给Anna一个回应？
+Who has an answer to Anna's worry about the effect on the minority? 你会对Anna怎么说？
+What do you say to Anna? 嗯，她说，少数派较少得到重视。
+Um, she said that the minority is valued less. 我不这样认为，就个人而言，
+I don't think that's the case because individually, 少数人和大多数人一样。
+the minority's value is just the same as the individual of the majority. 只是它们人数多一点而已。
+It's just that the numbers outweigh the minority. 我的意思是在某一点，你必须作出决定
+And I mean, at a certain point, you have to make a decision 对不起啊，那些占少数的人。
+and I'm sorry for the minority but sometimes, 有些时候，这样是为了大多数人的利益。
+it's for the general, for the greater good. 为了多数人的利益。Anna，你怎么说？
+For the greater good. Anna, what do you say? 你叫什么名字？
+What's your name? 杨达。
+Yang-Da. 你怎么回应杨达？
+What do you say to Yang-Da? 杨达说，你不得不把所有人的利益加起来
+Yang-Da says you just have to add up people's preferences 而且我们也把少数派的利益也加进去
+and those in the minority do have their preferences weighed. 你能举一个例子吗
+Can you give an example of the kind of thing 当你说，你对功利主义的担心
+you're worried about when you say you're worried about utilitarianism 因为忽略了对少数人的尊重？
+violating the concern or respect due the minority? 举一个例子。
+And give an example. 好吧。之前我们已经讨论过的案件，
+Okay. So, well, with any of the cases that we've talked about, 例如，那个沉船的案件，那个被吃掉的男孩
+like for the shipwreck one, I think the boy who was eaten 他和其他人有同等的活着的权利
+still had as much of a right to live as the other people 只是因为他是少数派，
+and just because he was the minority in that case, 他活下去的机会比其他人少了（他当时病了）
+the one who maybe had less of a chance to keep living, 这并不意味着，其他人就能
+that doesn't mean that the others automatically 有权吃他的肉，
+have a right to eat him just because it would give a 让更大人生存下去。
+greater amount of people a chance to live. 因此，也许少数派也有一定的权利，
+So there may be certain rights that the minority members have, 不应该拿他们的个人利益，来换取多数人的利益
+that the individual has that shouldn't be traded off for the sake of utility? 是。
+Yes. 是的，Anna？下面将是对你的想法的一个检验。
+Yes, Anna? You know, this would be a test for you. 早在古罗马，他们把基督徒丢在斗兽场
+Back in Ancient Rome, they threw Christians to the lions 的狮子群里。
+in the Colosseum for sport. 你觉得，功利主义会如何计算
+If you think how the utilitarian calculus would go, 是的，基督教被抛进狮子群里，承受着巨大的痛苦
+yes, the Christian thrown to the lions suffers enormous excruciating pain. 但看看罗马人的狂喜！
+But look at the collective ecstasy of the Romans! 杨达。
+Yang-Da. 那么，在那个年代..我不..如果在现代这个年代，
+Well, in that time, I don't -- if -- in modern day of time, 给那些围观的人，所得到的快乐
+to value the -- to give a number to the happiness 赋予一个价值，我不认为，
+given to the people watching, I don't think any, like, 政策制定者会说，一个人的痛苦
+policymaker would say the pain of one person, of the suffering 一个人会比，我的意思是，相比较而言
+of one person is much, much -- is, I mean, in comparison 获得的快乐要多，也就是-
+to the happiness gained, it's - 不，如果有足够多的罗马人
+No, but you have to admit that if there were enough Romans 他们都开心发狂，它甚至会超过了
+delirious enough with happiness, it would outweigh even the 这些被仍在狮子群里的基督徒所忍受的惨痛
+most excruciating pain of a handful of Christians thrown to the lion. 因此，在这里，我们有两种不同的反对功利主义的意见。
+So we really have here two different objections to utilitarianism. 其中一种，考虑到是否要充分尊重
+One has to do with whether utilitarianism adequately respects 个人或少数人的权利，而另一个种意见
+individual rights or minority rights, and the other has to do with 考虑到怎么把整体的利益加起来。
+the whole idea of aggregating utility or preferences or values. 是否有可能，把所有利益加起来，换算成美元价值？
+Is it possible to aggregate all values to translate them into dollar terms? 在20世纪30年代，有个心理学家
+There was, in the 1930s, a psychologist who tried 试图解决第二个问题。
+to address this second question. 他试图证明功利主义的假设
+He tried to prove what utilitarianism assumes, 我们可以将所有商品、价值、人文关怀
+that it is possible to translate all goods, all values, 转换成一个统一的度量
+all human concerns into a single uniform measure, 他给那些领取救济的年轻人，做了个调查
+and he did this by conducting a survey of young recipients of relief, 这是在20世纪30年代，他问这些年轻人，
+this was in the 1930s, and he asked them, 他列了一个不愉快体验的清单，然后他问他们，
+he gave them a list of unpleasant experiences and he asked them, “付多少钱，你会愿意忍受这些体验？”
+"How much would you have to be paid to undergo the following experiences?" 他一直跟踪调查。
+and he kept track. 举例来说，你愿意付多少钱
+For example, how much would you have to be paid 来拔掉你的一颗上门牙？
+to have one upper front tooth pulled out? 或者，你愿意支付多少钱来换取你的一个小脚趾？
+Or how much would you have to be paid to have one little toe cut off? 或者吞下一只6英寸长的活蚯蚓？
+Or to eat a live earthworm six inches long? 或住在堪萨斯州的一个农场来度过你的余生？
+Or to live the rest of your life on a farm in Kansas? 或者用亲手把一只流浪猫弄到窒息而死？
+Or to choke a stray cat to death with your bare hands? 你猜这个清单上，最昂贵的是哪一条？
+Now, what do you suppose was the most expensive item on that list? - Kansas! 堪萨斯？
+Kansas? 是的，是堪萨斯州。
+You're right, it was Kansas. 如果要他们选择住在堪萨斯州，别人要支付他们
+For Kansas, people said they'd have to pay them - 30万美元。
+they have to be paid $300,000. 你认为，接下来哪一条最贵？
+What do you think was the next most expensive? 不是猫。
+Not the cat. 也不是拔掉一颗牙。
+Not the tooth. 不是切掉脚趾。
+Not the toe. 是吞下蚯蚓！
+The worm! 你得支付他们10万美元，他们才肯吞下蚯蚓
+People said you'd have to pay them $100,000 to eat the worm. 你认为，哪条是最便宜？
+What do you think was the least expensive item? 不是猫。
+Not the cat. 是拔牙。
+The tooth. 在大萧条时期，人们还是愿意
+During the Depression, people were willing to have their 拔掉一颗牙来换取4,500元。
+tooth pulled for only $4,500. 什么？
+What? 下面是桑代克(著名的心理学家）从这个研究得出的结论
+Now, here's what Thorndike concluded from his study. 任何一种欲望只要存在，就必须以一定的程度存在着
+Any want or a satisfaction which exists exists in some amount 因此，它们都是可以衡量的。
+and is therefore measurable. 狗、猫或一只鸡的生命
+The life of a dog or a cat or a chicken consists of appetites, 由食欲、渴望、欲望、满足来组成。
+cravings, desires, and their gratifications. 人类也是如此，虽然人类的食欲
+So does the life of human beings, though the appetites 和欲望更加复杂。
+and desires are more complicated. 你怎么看桑代克的研究？
+But what about Thorndike's study? 它是否支持边沁的理论，
+Does it support Bentham's idea that all goods, 所有的商品、价值都用一个统一的价值来衡量？
+all values can be captured according to a single uniform measure of value? 抑或是，这个列着各式荒诞行为的清单
+Or does the preposterous character of those different items on the list 提出了相反的结论，
+suggest the opposite conclusion that maybe, 不论是生命、堪萨斯或蠕虫时，
+whether we're talking about life or Kansas or the worm, 也许很多我们珍视的事情是不能
+maybe the things we value and cherish can't be captured 用某种统一的价值来换取？
+according to a single uniform measure of value? 如果是不能的话，结果是怎样
+And if they can't, what are the consequences 功利主义的道德理论，结果会是怎样？
+for the utilitarian theory of morality? 我们将在下一次继续讨论这个问题。
+That's a question we'll continue with next time. 上一次，我们开始考虑一些
+Last time, we began to consider some objections to 反对边沁的功利主义的意见。
+Jeremy Bentham's version of utilitarianism. 人们提出了两种反对意见。
+People raised two objections in the discussion we had. 首先是反对，功利主义
+The first was the objection, the claim that utilitarianism, 只考虑最大多数人的最大效益
+by concerning itself with the greatest good for the greatest number, 没有充分尊重个人的权利。
+fails adequately to respect individual rights. 今天，我们讨论有关酷刑和恐怖主义。
+Today, we have debates about torture and terrorism. 假设一个恐怖嫌疑人，在9月10日被捕
+Suppose a suspected terrorist was apprehended on September 10th 你有理由相信，从疑犯身上能得到关于
+and you had reason to believe that the suspect had crucial information 一起将会让3000人遇害的恐怖袭击的重要信息
+about an impending terrorist attack that would kill over 3,000 people 但你现在还得不到这些信息。
+and you couldn't extract the information. 为了获取信息，用酷刑来折磨嫌疑人是否合理
+Would it be just to torture the suspect to get the information 或者你会说不可以，我们绝对要
+or do you say no, there is a categorical moral duty 尊重个人的权利？
+of respect for individual rights? 从某种意义上说，我们又回到我们一开始的问题
+In a way, we're back to the questions we started with 关于Charlie Carson的器官移植。
+about Charlie Carson organ transplant. 这是第一个问题。
+So that's the first issue. 而且你们还记得，我们考虑了一些
+And you remember, we considered some examples 成本效益分析的例子，但很多人对这样做不满
+of cost-benefit analysis, but a lot of people were unhappy 当它用金钱
+with cost-benefit analysis when it came to placing 来衡量人们的生命。
+a dollar value on human life. 因此，这引出了第二种反对的意见。
+And so that led us to the second objection. 我们质疑：是否有可能将所有东西都转化成
+It questioned whether it's possible to translate all values into 一个统一的价值尺度。
+a single uniform measure of value. 换句话说，它要求所有的东西是可度量、相称的。
+It asks, in other words, whether all values are commensurable. 让我再举另外一个例子。
+Let me give you one other example of an experience. 这实际上是一个真实的故事。
+This actually is a true story. 它来源于个人的经历
+It comes from personal experience that raises a question 它让我们思考，是否能无损失地将所有东西
+at least about whether all values can be translated without loss 完全转换成功利主义里所说的效益。
+into utilitarian terms. 几年前，当我还是一名研究生，
+Some years ago, when I was a graduate student, 我当时在英国牛津，我们有男子和女子学院。
+I was at Oxford in England and they had men's and women's colleges. 男女还是分开，而女子学院
+They weren't yet mixed and the women's colleges 规定不准男生夜访。
+had rules against overnight male guests. 到了70年代，这些规定很少得到执行
+By the 1970s, these rules were rarely enforced and easily violated, 而且很轻易就违反了，有人这样告诉我
+or so I was told. 到70年代末，当我在那里学习时
+By the late 1970s, when I was there, 大家放松了这些规定，这些规定也成为了争论的话题
+pressure grew to relax these rules and it became the subject of debate 在St. Anne's学院的教师当中，
+among the faculty at St. Anne's College, St. Anne's学院也是一所女子学院
+which was one of these all-women's colleges. 学院里年级较大的老师都比较传统
+The older women on the faculty were traditionalists. 他们反对改变传统。
+They were opposed to change unconventional moral grounds. 然而时代变了，他们也给不出一个合理的
+But times have changed and they were embarrassed 反对的理由，所以他们
+to give the true grounds for their objection and so they translated 用功利主义的论述来作为他们的论点。
+their arguments into utilitarian terms. “如果男生在女生宿舍过夜”，他们称
+"If men stay overnight", they argued, “学院的支出将会增加。”
+"the costs to the college will increase." “怎么个增加法？”你可能想知道。
+"How?" you might wonder. “嗯，他们要洗澡
+"Well, they'll want to take baths 而且会消耗很多热水，“他们说。
+and that'll use up hot water," they said. 此外，他们认为，
+Furthermore, they argued, “我们将不得不，更加频繁地更换床垫。”
+"We'll have to replace the mattresses more often." 支持改革的人，作出回应
+The reformers met these arguments by adopting the following compromise. 每个女生每周，最多只能让男生夜访3次
+Each woman could have a maximum of three overnight male guests each week. 他们没有明说，是同一个人或三个不同的人
+They didn't say whether it had to be the same one or three different 这是支持改革者作出的妥协，
+provided, and this was the compromise, 访客得为大学支付50便士的费用。
+provided the guest paid 50 pence to defray the cost to the college. 第二天，全国的报纸头条就写着
+The next day, the national headline in the national newspaper read, “St. Anne女生，50便士一晚。”
+"St. Anne's Girls, 50 Pence A Night." 将所有东西换算成价值的困难之处
+Another illustration of the difficulty of translating all values, 在这种情况下，凭借某种方法，来转换成功利主义的效益。
+in this case, a certain idea of virtue, into utilitarian terms. 这些都阐述了，第二种反对功利主义的意见
+So, that's all to illustrate the second objection to utilitarianism, 至少说明了一部分。关于功利主义
+at least the part of that objection, that questions whether utilitarianism 是否能将所有东西的价值统一化的假设
+is right to assume that we can assume the uniformity of value, 将所有价值、道德因素都同等地
+the commensurability of all values and translate all moral considerations 转换成美元或金钱。
+into dollars or money. 但这也有另外一个顾虑
+But there is a second aspect to this worry about 怎么将价值叠加起来
+aggregating values and preferences. 为什么我们要把所有人的利益叠加起来
+Why should we weigh all preferences that people have without assessing 而没有考量到，哪些是好的，哪些是坏的？
+whether they're good preferences or bad preferences? 我们是否应该区分较高层次的快乐，和低级快乐？
+Shouldn't we distinguish between higher pleasures and lower pleasures? 现在，其中一个考虑点是，
+Now, part of the appeal of not making any qualitative distinctions 是否不应区分开，人们价值好坏的问题，
+about the worth of people's preferences, 另外一点是，它是公正和平等的
+part of the appeal is that it is nonjudgmental and egalitarian. 边沁的功利主义认为，每个人的喜好都要考虑
+The Benthamite utilitarian says everybody's preferences count 不管它们是什么，
+and they count regardless of what people want, 不管是什么让不同的人快乐起来。
+regardless of what makes different people happy. 对于边沁来说，所有的事情
+For Bentham, all that matters, you'll remember, 都只是快乐或痛苦的强度大小、持续时间长短问题
+are the intensity and the duration of a pleasure or pain. 所谓的“更高级的快乐，或更崇高的美德”
+The so-called "higher pleasures or nobler virtues" 对于边沁来说
+are simply those, according to Bentham, 都只是更强、更持久的快乐而已
+that produce stronger, longer pleasure. 用一个很有名短语来形容就是
+Yet a famous phrase to express this idea, 快乐不分多少，图钉跟诗一样好。
+the quantity of pleasure being equal, pushpin is as good as poetry. 图钉是什么？
+What was pushpin? 图钉是孩子玩的一种游戏，如tiddlywinks。
+It was some kind of a child's game, like tiddlywinks. “图钉跟诗一样好”，边沁说。
+"Pushpin is as good as poetry", Bentham says. 我认为这种想法的背后，
+And lying behind this idea, I think, is the claim, the intuition, 它是一个假定，判断谁的快乐
+that it's a presumption to judge whose pleasures 在本质上是更高级、更有价值，或更好。
+are intrinsically higher or worthier or better. 有趣的是，如果你拒绝去做这一区分
+And there is something attractive in this refusal to judge. 有些人喜欢莫扎特，有些人喜欢麦当娜
+After all, some people like Mozart, others Madonna. 有些人喜欢芭蕾，其他人喜欢保龄球
+Some people like ballet, others bowling. 边沁也许争辩说，
+Who's to say, a Benthamite might argue, 谁敢说，这些快乐中，有些人的快乐更高级
+who is to say which of these pleasures, whose pleasures are higher, 更有价值的，更高尚呢？
+worthier, nobler than others? 但拒绝做定性的区分，是否就是正确的呢？
+But is that right, this refusal to make qualitative distinctions? 我们能否完全不考虑
+Can we altogether dispense with the idea that 我们在某些事情上的快乐，比其他更好或更有价值呢？
+certain things we take pleasure in are better or worthier than others? 回想起之前在罗马斗兽场的例子。
+Think back to the case of the Romans in the Colosseum. 这一做法困扰人们的地方在于
+One thing that troubled people about that practice is that it seemed 它似乎侵犯了这些基督教徒的权利。
+to violate the rights of the Christian. 另一个反对这一做法的
+Another way of objection to what's going on there 就是这些罗马人在这场血腥中获得的快乐
+is that the pleasure that the Romans take in this bloody spectacle, 这种快乐，是可耻的、堕落的、有辱人格的快乐
+should that pleasure, which is abased, kind of corrupt, degrading pleasure, 是否应该，对某些快乐加以评价和权衡
+should that even be valorized or weighed in deciding 在决定什么是大众的利益时？
+what the general welfare is? 这是反对边沁的功利主义的一些意见
+So here are the objections to Bentham's utilitarianism 现在，我们来看看，试图回应这些反对意见的人
+and now, we turn to someone who tried to respond to those objections, 近代的功利主义者，约翰·密尔。
+a latter-day utilitarian, John Stuart Mill. 现在，我们要看看约翰·密尔
+So what we need to examine now is whether John Stuart Mill 给出什么令人信服的辩解。
+had a convincing reply to these objections to utilitarianism. 约翰·密尔出生于1806年。
+John Stuart Mill was born in 1806. 他的父亲，詹姆斯·密尔是边沁的徒弟
+His father, James Mill, was a disciple of Bentham's, 詹姆士穆勒正着手给他的儿子
+and James Mill set about giving his son, John Stuart Mill, 树立榜样。
+a model education. 他3岁是会希腊语，8岁会拉丁文，
+He knew Greek at the age of three, Latin at eight, 10岁时，他写了《罗马法史》
+and age 10, he wrote "A History of Roman Law." 20岁时，他精神崩溃。
+At age 20, he had a nervous breakdown. 这让他抑郁了5年，但在25岁，
+This left him in a depression for five years, but at age 25, 让他走出抑郁
+what helped lift him out of this depression 是他遇上了Harriet Taylor。
+is that he met Harriet Taylor. 他们后来结了婚，一直过得很幸福，
+She and Mill got married, they lived happily ever after, 正是在她的影响下，约翰·密尔
+and it was under her influence that John Stuart Mill 试图把功利主义变得人性化
+tried to humanize utilitarianism. 密尔试图
+What Mill tried to do was to see whether the 完善功利主义
+utilitarian calculus could be enlarged and modified to 使其融进人文关怀
+accommodate humanitarian concerns, like the concern to 例如考虑到尊重个人权利
+respect individual rights, and also to address the distinction 区分了高级和低级的乐趣
+between higher and lower pleasures. 1859年，密尔写了一本关于自由的有名的书
+In 1859, Mill wrote a famous book on liberty, 书中的主要论点是
+the main point of which was the importance 维护个人和少数人的权利的重要性
+of defending individual rights and minority rights, 1861年，当他接近生命的终点时，
+and in 1861, toward the end of his life, 他写下了我们这门课的其中一本书，《功利主义》
+he wrote the book we read as part of this course, "Utilitarianism." 他清楚地表明，效用是道德的唯一标准，
+He makes it clear that utility is the only standard of morality, 所以他并没有违背边沁的假设。
+in his view, so he's not challenging Bentham's premise. 而是坚定了他的观点。
+He's affirming it. 他说，很明确地说：“证明某样东西是更令人喜欢
+He says very explicitly, "The sole evidence it is possible 唯一证据就是人们都喜欢它”
+to produce that anything is desirable is that people actually do desire it." 他留下了一个想法，我们真实存在的欲望
+So he stays with the idea that our de facto actual empirical desires 是道德判断的唯一基础。
+are the only basis for moral judgment. 但在第二章，第8页，
+But then, page eight, also in chapter two, 他认为，功利主义是可以
+he argues that it is possible for a utilitarian to distinguish 区分高级或低级的乐趣。
+higher from lower pleasures. 现在，你们谁看过密尔的文章
+Now, for those of you who have read Mill already, 根据他的理论，是怎么样作出这种区分？
+how, according to him, is it possible to draw that distinction? 功利主义是怎样从定性上把高级的快乐
+How can a utilitarian distinguish qualitatively higher pleasures 从低级的、可耻的、无意义的快乐区分出来？是的？
+from lesser ones, base ones, unworthy ones? Yes? 如果你尝试过这两者，你会更喜欢更高级的
+If you've tried both of them and you prefer the higher one, 很自然地，一直地
+naturally, always. 很好。
+That's great. That's right. 你叫什么名字？ - 约翰。
+What's your name? - John. 就像约翰指出的，密尔说，我们是这样给它定性的：
+So as John points out, Mill says here's the test. 既然我们不能走出实际的愿望，
+Since we can't step outside actual desires, 因为它们会违反功利主义的假设，
+actual preferences that would violate utilitarian premises, 检验一种乐趣是高级还是低级
+the only test of whether a pleasure is higher or lower 需要你把这两种乐趣都体验过之后，更偏爱其中一种
+is whether someone who has experienced both would prefer it. 在第二章，我们看到了
+And here, in chapter two, we see the passage where 密尔指出来，约翰刚才所说的。
+Mill makes the point that John just described. “两种乐趣之中，如果其中一种是
+"Of two pleasures, if there be one to which 所有（或几乎所有）体验过这两者之后，还偏爱其中一种
+all or almost all who have experience of both give a decided preference, 不管任何的道义责任，你还喜欢它 -
+irrespective of any feeling of moral obligation to prefer it -- 换句话说，没有外部独立的标准
+in other words, no outside, no independent standard -- then, 它是在比较之下，我们更喜欢的那一者。“
+that is the more desirable pleasure." 大家对这种论点怎么看？
+What do people think about that argument? 是否成功了？
+Does it succeed? 有多少人认为，它成功地
+How many think that it does succeed of arguing 在功利主义的框架中
+within utilitarian terms for a distinction between 成功地区分了高级和低级的快乐？
+higher and lower pleasures? 有多少人觉得这并没有成功？
+How many think it doesn't succeed? 我想听听你的理由。
+I want to hear your reasons. 但是，在我们给出我们的理由之前
+But before we give the reasons 让我们按照密尔的说法，做一个实验
+let's do an experiment of Mill's claim. 我们将会观看
+In order to do this experiment, we're going to look at 三个娱乐的短片。
+three short excerpts of popular entertainment. 第一个是一段哈姆雷特的独白。
+The first one is a Hamlet soliloquy. 接着是两个其他方面的体验。
+It'll be followed by two other experiences. 看看你是怎么想的
+See what you think. 人类是一件多么了不起的作品！，如何高尚的理由，
+What a piece of work is a man! How noble in reason! 能力如此无穷, 动作多么迅速
+How infinite in faculties,In form and moving 动若天使，令人赞叹
+how express and admirable, in action how like an angel, 思若上帝！
+in apprehension how like a god! 世界之美，万物之灵
+The beauty of the world, the paragon of animals - 可是，对于我，这点泥土里提炼出来的玩意儿算得了什么呢？
+and yet, to me, what is this quintessence of dust? 人类不能让我愉悦（下一句：不，女人也不行。 ）
+Man delights not me.（no, nor woman neither. ） 想像这样一个世界里，你最大的担忧变成现实。
+Imagine a world where your greatest fears become reality. 啊！他们正在吞噬着我！
+Ahh! They're biting me! 每场演出，6名来自全国各地的参赛者
+Each show, six contestants from around the country 表扬三个特技， 刀光剑影
+battle each other in three extreme stunts. 呜！
+Ow! 这些特技专门用来为难这些参赛者的
+These stunts are designed to challenge the contestants 既是身体上的，也是心理上的
+both physically and mentally. 6名选手，3项特技，1个赢家。
+Six contestants, three stunts, one winner. 是！ Whooo！
+Yes! Whooo! 《谁敢来挑战》
+Fear Factor. 你好diddily-ho，pedal-to-the-metal-o-philes。
+Hi-diddily-ho, pedal-to-the-metal-o-philes. Flanders，你是什么时候开始喜欢酷的东西？
+Flanders, since when do you like anything cool? 嗯，我不在乎速度，但我无法得到满足
+Well, I don't care for the speed but I can't get enough 这一安全装置。头盔，侧倾杆，警告标志...
+of that safety gear. Helmets, roll bars, caution flags... 我喜欢新鲜的空气...
+I like the fresh air... 看着内场的穷人。
+and looking at the poor people in the infield. Dang，Cletus，为什么你把车停在我父母的车旁边？
+Dang, Cletus, why'd you have to park by my parents? 亲爱的，他们是我的父母了。
+Now, Honey, they's my parents too. 我甚至不用问你最喜欢哪一种。
+I don't even have to ask which one you liked most. Simpsons，有多少人最喜欢Simpsons？
+The Simpsons, how many liked The Simpsons most? 有多少会选莎士比亚？
+How many Shakespeare? 《谁敢来挑战》呢？
+What about Fear Factor? 有谁会选《谁敢来挑战》？
+How many preferred Fear Factor? 真的吗？
+Really? 超过半数的人更喜欢Simpsons，而不是莎士比亚
+People overwhelmingly like The Simpsons better than Shakespeare. 好，现在，让我们看看投票结果
+All right, now, let's take the other part of the poll, 这一次是选最开心的经历
+which is the highest experience or pleasure. 有多少人选择莎士比亚？
+How many say Shakespeare? 有多少人选《谁敢来挑战》？
+How many say Fear Factor? 不，你不是认真的。真的吗？什么？
+No, you can't be serious. Really? What? 好的，请继续。你可以说一下。
+All right, go ahead. You can say it. 我发现它是最有趣的。
+I found that one the most entertaining. 我知道，但你认为它是最有价值的，
+I know, but which do you think was the worthiest, 最高贵的体验？
+the noblest experience? 我知道，你会觉得它最有趣。
+I know you found it the most entertaining. 如果一样东西是好的，因为它能带来快乐
+If something is good just because it is pleasurable, 那样的话，你就不用在意觉得好的
+what does it matter whether you have sort of an 别人是否会觉得不好？
+abstract idea of whether it is good by someone else's sense or not? 好吧，你回到边沁。
+All right, so you come down in the straight Benthamite side. 谁来做判断，我们判断的理由是什么，
+Who is to judge and why should we judge, 除了把真实的喜好记下来，并叠加起来？
+apart from just registering and aggregating de facto preference? 好的。你叫什么名字？
+All right, that's fair enough. And what's your name? Nate，好的。
+Nate, okay, fair enough. 好的，怎么很多人认为Simpsons
+All right, so how many think The Simpsons is actually, 除了因为你喜欢它，它实际上也是一种高级的体验呢？
+apart from liking it, is actually the higher experience? 而且是比莎士比亚高呢？
+Higher than Shakespeare? 好吧，让我们再看看多少人投莎士比亚。
+All right, let's see the vote for Shakespeare again. 多少人认为莎士比亚是高级的呢？
+How many think Shakespeare is higher? 好的。那么，理由是什么？
+All right. So why is it -- ideally, 我想听听，有谁是认为
+I'd like to hear from someone, is there someone who thinks 莎士比亚是最高级的，尽管你也喜欢看Simpsons？
+Shakespeare is highest but who preferred watching The Simpsons? 是的？
+Yes? 我想，只是坐着看Simpsons，
+Like, I guess just sitting and watching The Simpsons, 它是有趣的，因为给我们带来了欢笑
+it's entertaining because they make jokes and they make us laugh. 但是，有人告诉我们，莎士比亚是伟大的作家。
+But like, someone has to tell us that Shakespeare was this great writer. 我们必须要学会如何读他，如何理解他。
+We had to be taught how to read him, how to understand him. 我们必须要学习Rembrandt（一位艺术家），
+We had to be taught how to kind of take in Rembrandt, 学习如何分析的一幅油画。
+how to analyze a painting. 你叫什么名字？
+But let me -- what's your name? Anisha。
+Anisha. Anisha，当有人告诉你说，莎士比亚是更好的 -
+Anisha, when you say someone told you that Shakespeare is better -- 对。
+Right. 您是否就深信不疑呢？
+Are you accepting it on blind faith? 你选了莎士比亚
+You voted that Shakespeare is higher 不仅是因为大众告诉你，
+only because the culture tells you that 或者教师告诉你，还是你的确这样认同？
+or teachers tell you that or do you actually agree with that yourself? 哦，在这个意义上，我不觉得会是莎士比亚
+Well, in the sense that Shakespeare no, 但之前你提到了Rembrandt的例子。
+but earlier you made an example of Rembrandt. 我觉得，看漫画时我更享受
+I feel like I would enjoy reading a comic book 而不是看Rembrandt的分析
+more than I would enjoy kind of analyzing Rembrandt 因为有人告诉我，这是伟大的 - 是的。
+because someone told me it was great, you know. - Right. 因此似乎就是这样子，你的意思是
+So some of this seems to be, you're suggesting, 一种文化的约定、压力。
+a kind of a cultural convention and pressure. 我们被告知什么书、什么样的艺术作品是伟大的。
+We're told what books, what works of art are great. - Right. 还有谁？
+Who else? 是的？
+Yes? 虽然我喜欢看Simpsons
+Although I enjoyed watching The Simpsons more 但在这一刻，讨论到正义时，如果我要选择
+in this particular moment, in justice, if I were to spend 在这3种不同的短片里，选择一种来度过我的余生
+the rest of my life considering the three different video clips shown, 我不选择看Simpsons来度过我的余生
+I would not want to spend that remainder of my life 考虑到后两个短片。
+considering the latter two clips. 我想，我会获得更多的乐趣
+I think I would derive more pleasure from being able to branch out in my 从这更深层次的愉悦和思考之中
+own mind sort of considering more deep pleasures, more deep thoughts. 告诉我你的名字。
+And tell me your name. 乔。
+Joe. 乔，因此，如果你将在一个农场度过你的余生
+Joe, so if you had to spend the rest of your life on a farm 在堪萨斯州，只有莎士比亚
+in Kansas with only Shakespeare or the collected episodes 或者Simpsons的短片，你会倾向于莎士比亚？
+of The Simpsons, you would prefer Shakespeare? 你从密尔的这个测试中，大概能得出什么结论
+What do you conclude from that about John Stuart Mill's test that the test 检验它是否是高级的，就是体验过两者之后选择其一？
+of a higher pleasure is whether people who have experienced both prefer it? 我可以举出另外一个简单的例子吗？
+Can I cite another example briefly? 好啊。
+Yeah. 去年的神经生物学，告诉我们
+In Neurobiology last year, we were told of a rat 测试小白鼠大脑的某个部位
+who was tested a particular center in the brain where the rat was able 这个区能刺激大脑，持续地让大脑兴奋
+to stimulate his brain and caused itself intense pleasure repeatedly. 小白鼠不吃不喝，直到死亡。
+The rat did not eat or drink until it died. 很显然，小白鼠体验了强烈的快感
+So the rat was clearly experiencing intense pleasure. 现在，如果你问我，我是否愿意体验
+Now, if you ask me right now if I would rather experience 这种强烈的快感，或一生都体验着高级的快乐
+intense pleasure or have a full lifetime of higher pleasure, 我会觉得这种强烈的快乐是低级的
+I would consider intense pleasure to be low pleasure. 虽然我会很享受强烈的快感，但
+I would right now enjoy intense pleasure but - 是的，我会的。
+-- yes, I would. 我当然会。
+I certainly would. 不过，如果是一生，我想，我觉得几乎大多数人都会同意，
+But over a lifetime, I think I would think almost a complete majority here would agree that they would rather 大多数人会同意，他们宁愿选择
+a complete majority here would agree that they would rather 一个具更高级的乐趣，而不是像小白鼠强烈的、
+be a human with higher pleasure than be that rat with intense pleasure 而又短暂的快感
+for a momentary period of time. 在回答你的问题前，我认为这证明了 -
+Now, in answer to your question, I think this proves that - 或者我不会说“证明”。
+or I won't say "proves." 我认为，密尔的理论，结论是
+I think the conclusion is that Mill's theory that when a majority 当大多数人被问道，他们愿意做什么时
+of people are asked what they would rather do, 他们会回答，他们选择更高级的乐趣。
+they will answer that they would rather engage in a higher pleasure. 那么，你认为，这支持密尔的观点？
+So you think that this support Mill's you think Mill is onto something here? 是的。
+I do. 好的，是否有人不同意乔的观点
+All right, Is there anyone who disagrees with Joe and who thinks 认为我们的实验驳倒了密尔的测试，
+that our experiment disproves Mill's test, 认为并没有一种适当的方式
+shows that that's not an adequate way, that you can't distinguish 在功利主义的框架内，区分出更高级的快乐？
+higher pleasures within the utilitarian framework? 是吗？
+Yes? 如果它是好是坏，就是因为人们是否跟喜欢它
+If whatever is good is truly just whatever people prefer, 它的好坏是相对的，并没有客观的定义，
+it's truly relative and there's no objective definition, 那么，就会有些人更喜欢Simpsons。
+then there will be some society where people prefer Simpsons more. 任何人都可以欣赏Simpsons，但我认为
+Anyone can appreciate The Simpsons but I think it does take education 我们需要经过学习，才能欣赏莎士比亚。
+to appreciate Shakespeare as much. 好的，你说需要学习
+All right, you're saying it takes education 才能欣赏真正更高级的事情。
+to appreciate higher true things. 密尔观点是，更高级的快乐确实需要
+Mill's point is that the higher pleasures do require 经过培养、欣赏和教育。
+cultivation and appreciation and education. 他不否认这点。
+He doesn't dispute that. 但是，一旦被培养和教育，人们将会看到，
+But once having been cultivated and educated, people will see, 不但可以看到高级和低级的快乐不同，
+not only see the difference between higher and lower pleasures, 而且，事实上人们会选择更高级的，而非低级的
+but will actually prefer the higher to the lower. 你能找到约翰密尔的一段很著名的话
+You find this famous passage from John Stuart Mill. “宁可像人类那样饥渴，也不要像猪一样饱足
+"It is better to be a human being dissatisfied than a pig satisfied; 宁可像让苏格拉底饿着，也不要把一个傻瓜喂饱。
+better to be Socrates dissatisfied than a fool satisfied. 而且，如果傻瓜或猪有不同的意见，
+And if the fool, or the pig, are of a different opinion, 这是因为他们只看到自己的那一面。“
+it is because they only know their side of the question." 所以在这里，你试图去区分
+So here, you have an attempt to distinguish 高级和低级的乐趣。
+higher from lower pleasures. 因此，是去艺术博物馆，还是呆在沙发上
+So going to an art museum or being a couch potato 喝着啤酒，在家看电视。
+and swilling beer, watching television at home. 有时候，密尔也认同，我们可能会屈从于诱惑
+Sometimes, Mill agrees, we might succumb to the temptation 选择了后者，选择了做电视迷 （呆在沙发上）
+to do the latter, to be couch potatoes. 但即使在我们出于怠惰而这样做的时候，
+But even when we do that out of indolence and sloth, 我们知道，我们在博物馆里凝视着Rembrandts的作品时
+we know that the pleasure we get gazing at Rembrandts in the museum 那是更高级的乐趣，因为我们已经体验过这两种乐趣
+is actually higher because we've experienced both, 看Rembrandts的作品是更高级的享受
+and it is a higher pleasure gazing at Rembrandts 因为它运用到了人类更高级的能力。
+because it engages our higher human faculties. 密尔是怎样回答有关个人权利的争议的呢？
+What about Mill's attempt to reply to the objection about individual rights? 从某种意义上说，他使用了相同的论点，
+In a way, he uses the same kind of argument, 第五章有讲到。
+and this comes out in chapter five. 他说：“我反对任何主张假想出一个
+He says, "I dispute the pretensions of any theory which sets up 关于正义的标准，而不是建立在效用的基础上”
+an imaginary standard of justice not grounded on utility." 尽管如此，他认为正义是建立在效益上
+But still, he considers justice grounded on utility to be what he calls 被他称作“是主要的、无可比拟、最神圣的
+"the chief part and incomparably, the most sacred 所有道德的约束力”
+and binding part of all morality." 因此，公正是更高级的，个人权利是优先的，
+So justice is higher, individual rights are privileged, 这并不是从功利主义的假设引申出来的
+but not for reasons that depart from utilitarian assumptions. 正义是一种名义，为了一定的道德准则
+Justice is a name, for certain moral requirements, 其中，集体的效益是更高级的
+which, regarded collectively, stand higher in the scale 社会利益是更重要的
+of social utility and are, therefore, of more paramount 比其他任何义务都高级。
+obligation than any others. 因此，正义，它是神圣的。
+So justice, it is sacred. 这是先决的。它是优先的。
+It's prior. It's privileged. 它不是一件容易兑换的东西
+It isn't something that can easily be traded off against lesser things. 但密尔声称，最终都归结于功利主义
+But the reason is ultimately, Mill claims, a utilitarian reason 一旦你考虑到人类长远的利益，
+once you consider the long-run interests of humankind, 我们全人类的进步。
+of all of us as progressive beings. 如果我们服从正义，如果我们尊重权利，
+If we do justice and if we respect rights, 长远来说，整个社会的生活会有所改善
+society as a whole will be better off in the long run. 这个观点有说服力吗？或者说，尽管密尔没有表面承认
+Well, is that convincing or is Mill actually, without admitting it, 走出了功利主义的论调
+stepping outside utilitarian considerations in arguing for 为了区分出更高一级、更神圣的快乐
+qualitatively higher pleasures and for sacred 或特别重要的个人权利？
+or especially important individual rights? 我们还没有完全解答这个问题，因为要解答这个问题，
+We haven't fully answered that question because to answer that question, 在权利和正义的情况下，
+in the case of rights and justice, 要求我们探索其它方法，
+will require that we explore other ways, 不是用功利主义的方法
+non-utilitarian ways of accounting for the basis 然后再看看这些方法是否成功。
+of rights and then asking whether they succeed. 至于边沁，他提出了功利主义
+As for Jeremy Bentham, who launched utilitarianism 作为一种道德和法律哲学的学说，
+as a doctrine in moral and legal philosophy, 边沁在1832年去世，享年85岁。
+Bentham died in 1832 at the age of 85. 但是如果你去伦敦，你可以今天就去“拜访”他。
+But if you go to London, you can visit him today literally. 按着他的意愿，他的尸体还保留着，
+He provided in his will that his body be preserved, 经过防腐处理，陈列在伦敦大学，
+embalmed, and displayed in the University of London, 在玻璃柜中，用蜡做的头像
+where he still presides in a glass case with a wax head, 穿着当年的衣服。
+dressed in his actual clothing. 在他去世前，边沁对待自己
+You see, before he died, Bentham addressed himself 跟他的哲学思想是一致的。
+to a question consistent with his philosophy. 有什么能让死人活着？
+Of what use could a dead man be to the living? 一个方法是，他说，将一个人的尸体
+One use, he said, would be to make one's corpse 用来被解剖作研究。
+available to the study of anatomy. 但是，对于一位伟大的哲学家，更好的保存方法是
+In the case of great philosophers, however, better yet to preserve 留下身躯，勉励世人
+one's physical presence in order to inspire future generations of thinkers. 你想看看，边沁是什么样子的吗？
+You want to see what Bentham looks like stuffed? 下面是他的模样。
+Here is what he looks like. 这就是他
+There he is. 如果仔细地观察，你会发现
+Now, if you look closely, you will notice that the embalming 他的头部，没有成功防腐
+of his actual head was not a success, 所以，人们改用了蜡头像，更为逼真，
+so they substituted a waxed head and at the bottom, for verisimilitude, 在底部，你可以在一个盘上看到他实际的头像。
+you can actually see his actual head on a plate. 你看到了吗？在那儿。
+You see it? Right there. 那么，这个故事的道德准则是什么？
+So, what's the moral of the story? 这个故事的道德准则，顺带说一下
+The moral of the story - and by the way, 在伦敦大学学院，董事会开会时，将他带出去，
+they bring him out during meetings of the board 他的这份记录
+at University College London and the minutes record him 呈上了，但没有表决。
+as present but not voting. 这就是一个哲学家的一生
+Here is a philosopher in life and in death 一生坚守着自己的哲学原则
+who adhered to the principles of his philosophy. 下一次，我们将继续讨论权利。
+We'll continue with rights next time. 千万不要错过，网上和其他观众交流的机会
+Don't miss the chance to interact online with other viewers of Justice. 一起加入讨论，参加在线的投票 
+Join the conversation, take a pop quiz, 回看你已经错过了的演讲，从中学习 
+watch lectures you've missed, and learn a lot more. justiceharvard.org。
+It's at justiceharvard.org. It's the right thing to do. 中文字幕：何_何
+http://forum-network.org xiaolai 
+
+
+
+ Chapter 2: 自由选择
+
+
+
+
+
+
+ Chapter 3: 这是我的土地
+
+
+
+
+
+
+ Chapter 4: 是否雇佣顶替自己服役的人
+
+
+
+
+
+
+ Chapter 5: 小心你的动机
+
+
+
+
+
+
+ Chapter 6: 谎言的教训
+
+
+
+
+
+
+ Chapter 7: 公平的起点是什么
+
+
+
+
+
+
+ Chapter 8: 平权行动的争论
+
+
+
+
+
+
+ Chapter 9: 好公民
+
+
+好公民
+The Good Citizen 我们来讨论亚里士多德,
+We turn to Aristotle 在讨论了
+after examining theories, 正义的一些当代的理论
+modern theories, of justice 这些理论试图把
+that try to detach 正义和权利
+considerations of justice and rights 从道德应得和美德的问题中分离出去。
+from questions of moral desert and virtue. 亚里士多德不同意康德和罗尔斯。
+Aristotle disagrees with Kant and Rawls. 亚里士多德主张，公正是关于让人们得到应得之物的问题。
+Aristotle argues that justice is a matter of giving people what they deserve. 而亚里士多德的正义理论其中心观点就是
+And the central idea of Aristotle's theory of justice 在思考正义和权利的时候，
+is that in reasoning about justice and rights we have, 就不可避免地要思考这些行为的
+unavoidably, to reason about the purpose,or the end, or the telos, 目的、目标、或泰罗斯（希腊语，指目标）
+of social practices in institutions. 确实，正义要求我们对相同的人，给予相同的东西。
+Yes, justice requires giving equal things to equal persons, 但一谈到正义，问题很快来了：
+but the question immediately arises,in any debate about justice, 在什么方面相同?
+equal in what respect? 亚里士多德说，要回答那个问题
+And Aristotle says we need to fill in the answer to that question 就得看它的目标
+by looking to the characteristic end, 或其本性，
+or the essential nature, 或我们分配之物其自身的目的。
+or the purpose, of the thing we're distributing. 于是，我们讨论了亚里士多德关于长笛的例子。
+And so we discussed Aristotle's example of flutes; 谁该得到最好的长笛？
+who should get the best flutes. 亚里士多德的回答是最好的长笛手。
+And Aristotle's answer was the best flute-players. 最好的长笛手应获得最好的长笛，
+The best flute-player should get the best flute 因为这样能彰显
+because that's the way of honoring 卓越的长笛演奏
+the excellence of flute playing. 这也是对伟大长笛手的奖赏。
+It's a way of rewarding the virtue of the great flute-player. 有趣的是....
+What's interesting though, (这就是我们今天要探究的)
+and this is what we are going to explore today, 有趣的是，不用目的论来进行思考，并不那么容易，
+is that it's not quite so easy to dispense with teleological reasoning 尤其当我们思考社会制度
+when we're thinking about social institutions 和政治实践活动时。
+and political practices. 当我们思考伦理、正义和道德时，
+In general it's hard to do without teleology 一般来说，你很难不用到目的论。
+when we're thinking about ethics,justice, and moral argument. 至少亚里士多德是这么认为的。
+At least that is Aristotle's claim. 而我想通过两个例子
+And I would like to bring out the force in Aristotle's claim 来解释亚里士多德的这一观点
+by considering two examples. 一个例子是，亚里士多德花了相当的时间去讨论
+One is an example that Aristotle spends quite a bit of time discussing; 政治生活的事例。
+the case of politics. 例如，应该怎样分配国家官职、荣誉称号
+How should political offices and honors, 和政府权力？
+how should political rule be distributed? 第二个例子是，当代关于高尔夫球的争论。
+The second example is a contemporary debate about golf 即职业高尔夫球协会是否应该
+and whether the Professional Golfers Association 允许CaseyMartin
+should be required to allow Casey Martin, 这位有残疾的高尔夫球手
+a golfer with a disability, 允许他驾驶高尔夫球车。
+to ride in a golf cart. 这两个事例都体现了
+Both cases bring out 亚里士多德目的论的思考方式
+a further feature 一个更深入的特点。
+of Aristotle's teleological way of thinking about justice. 这个特点会出现在，当我们考虑目标或目的时，
+And that is that when we attend to the telos, or the purpose, 有时会出现分歧，并争论
+sometimes we disagree and argue about what the purpose 某个社会活动真正存在的目的是什么。
+of a social practice really consists in. 当我们存在分歧时
+And when we have those disagreements 那些分歧中的关键部分
+part of what's at stake in those disagreements 不仅仅是谁将得到什么的问题
+is not just who will get what, 不仅仅是一个分配问题，
+not just a distributive question, 更是一个关于彰显荣耀的问题。
+but also an honorific question. 具有怎样品质和才华的人，
+What qualities,what excellences, 才配得到那份荣誉？
+of persons will be honored? 讨论目的和目标
+Debates about purpose and telos 常常同时要讨论关于荣誉的问题。
+are often, simultaneously, debates about honor. 现在，让我们来看这些例子
+Now, let's see how that works 亚里士多德叙述政治生活的事例，【】
+in the case of Aristotle's account of politics. 这些天，当我们讨论分配公正时
+When we discuss distributive justice these days 我们主要关注收入、财富、机会的分配。
+we're mainly concerned with the distribution of income and wealth and opportunity. 亚里士多德对分配正义的关注
+Aristotle took distributive justice 主要不集中在收入和财富上，
+to be mainly not about income and wealth 而是在官职和荣誉称号上。
+but about offices and honors. 谁才是有权利去统治的人？
+Who should have the right to rule? 谁应该是一个公民？
+Who should be a citizen? 政治权力应该怎样分配？
+How should political authority be distributed? 这些都是他关于的问题。
+Those were his questions. 那么，他是怎样回答这些问题的呢？
+How did he go about answering those questions? 跟他对正义的目的论解释一样
+Well, in line with his teleological account of justice, 亚里士多德主张，为了知道政治权力该如何分配，
+Aristotle argues that to know how political authority should be distributed 我们首先要问政治生活的目的、要点、
+we have, first, to inquire into the purpose, the point, 泰罗斯（目的）是什么
+the telos, of politics. 政治生活是关于什么的？
+So, what is politics about? 它怎样帮助我们决定，该由谁来统治？
+And, how does this help us decide who should rule? 亚里士多德的回答是这样的，
+Well, for Aristotle the answer to that question is, 政治生活在于
+politics is about 塑造品格，
+forming character, 塑造好的品格，
+forming good character. 在于培养公民的美德，
+It's about cultivating the virtue of citizens. 在于美好的生活，
+It's about the good life. 那才是国家的最终目的、政治共同体的最终目的，
+The end of the State,the end of the political community, 在《政治学》第三卷，他告诉我们，
+he tells us in Book Three of the Politics, 政治生活不仅仅是生活，也不只是经济交易，
+is not mere life, it's not economic exchange only, 不仅仅是治安，
+it's not security only, 而是实现美好生活。
+it's realizing the good life. 这就是亚里士多德所认为的，政治生活的目的。
+That's what politics is for according to Aristotle. 现在，你可能会担心，你会说：
+Now, you might worry about this. You might say, “嗯，也许这让我们看到，为什么那些关于正义和政治
+"Well, maybe this shows us why those modern theorists of justice, 的现代理论
+and of politics, 是正确的。”
+are right". 还记得吗，对于康德和罗尔斯来说
+Because remember,for Kant and for Rawls, 政治的要点不是塑造公民的道德品质。
+the point of politics is not to shape the moral character of citizens. 它不是要让我们变好。
+It's not to make us good. 而是要尊重我们自由地选择自己觉得好的东西、
+It's to respect our freedom to choose our goods, 选择我们自己的价值和最终目标，
+our values,our ends, 并拥有和他人一样的自由。
+consistent with a similar liberty for others. 亚里士多德不同意这些说法。
+Aristotle disagrees. “真正的城邦，
+"Any polis which is truly so called, 那不仅仅是一个名字
+and is not merely one in name, 她一定是献身于，提高美德的目标之中。
+must devote itself to the end of encouraging goodness. 否则，政治的联合只沦为一种同盟而已。
+Otherwise political association sinks into a mere alliance. 法律变成了一种协议，
+Law becomes a mere covenant, 法律变成了个人权利的保证人
+a guarantor of man's rights against one another, 而没有成为...它应该要成为...
+instead of being - as it should be - 政治应该要让城邦里的成员们变得善良而公正。”
+a way of life such as will make the members of a polis good and just." 这就是亚里士多德的观点。
+That's Aristotle's view. 一个城邦不只是，人们共同居住的一个地方
+"A polis is not an association for residents on a common site, 不只是为了阻止相互间的不正义行为。
+or for the sake of preventing mutual injustice 不只是为了方便人们交易。”亚里士多德写道。
+and easing exchange." Aristotle writes. “城邦目的和目标是为了美好的生活，
+"The end and purpose of a polis is the good life, 而国家的建立，就是为了实现这一目标。
+and the institutions of social life are means to that end." 如果这就是城邦和政治生活的目的，
+Now, if that's the purpose of politics, of the polis, 亚里士多德说，我们就能以此得到
+then, Aristotle says,we can derive from that 分配正义的原则；
+the principles of distributive justice; 例如，谁该拥有最大决定权的原则，
+the principles that tell us who should have the greatest say, 谁该拥有最大程度政治权力的原则。
+who should have the greatest measure of political authority. 而他对此的回答是什么呢？
+And what's his answer to that question? 那些最能
+Well, those who contribute the most 建立这样一种机构的，也就是，
+to an association of this character, 能帮助人们实现美好生活的人，
+namely an association that aims at the good, 就应该在政治统治中获得最大份额，在城邦中享有荣誉称号。
+should have a greater share in political rule and in the honors of the polis. 其理由是，
+And the reasoning is, 在这个位置上，他们就最能实现
+they are in a position to contribute most 政治共同体的本质目的
+to what political community is essentially about. 所以，你能看到亚里士多德是怎样
+Well, so you can see the link that he draws 把公民和政治权力的分配正义
+between the principle of distribution for citizenship and political authority 和政治生活的目的联系起来。
+and the purpose of politics. 你很快会问，“但为什么？”
+"But why," you'll quickly ask, “为什么他会声称
+"Why does he claim 政治生活，参与政治生活
+that political life, participation in politics, 对于过上美好生活
+is somehow essential 在一定程度上是必要的呢?
+to living a good life?" 是否有可能
+"Why isn't it possible 人们过着完美的生活，
+for people to live perfectly good lives, 满意的生活，道德的生活，
+decent lives,moral lives, 同时却不必参与到政治生活中？”
+without participating in politics?" 对此，他给出了两个回答。
+Well, he gives two answers to that question. 他给了一个不完整的回答，一个初步的答案，
+He gives a partial answer, a preliminary answer, 在《政治学》第一卷中。
+in Book One of the Politics 他告诉我们，只有生活在城邦中
+where he tells us that only by living in a polis, 并且参与政治生活
+and participating in politics, 才让我们完全实现，作为人类的我们的本性。
+do we fully realize our nature as human beings. 人类，从本性上
+Human beings are, by nature, 就意味着要生活在一个城邦之中。
+meant to live in a polis. 为什么？
+Why? 因为只有在政治生活中，我们才可以真正锻炼到
+It's only in political life that we can actually exercise 我们的语言能力，
+our distinctly human capacity for language, 亚里士多德认为，有了这种能力才能思考对与错，
+which Aristotle understands is this capacity to deliberate about right and wrong, 思考正义与不正义。
+the just and the unjust. 而且，亚里士多德在《政治学》第一卷中写道，
+And so, Aristotle writes in Book One of the Politics, 城邦、政治共同体，
+that the polis,the political community, 先于个体自然存在着，
+exists by nature and is prior to the individual. 这不是说，它在个体出现以前就存在
+Not prior in time, 而是其目的先于个体
+but prior in its purpose. 人类离开政治共同体，
+Human beings are not self-sufficient, 单靠自己
+living by themselves, 是不可能做到自给自足的。
+outside a political community. “那些孤立的人，那些不能分享到政治联合体的好处。
+"Man who is isolated, who is unable to share in the benefits of political association, 那些不需要分享的人
+or who has no need to share, 因为他已经自给自足，
+because he's already self-sufficient, 这样的人，不是一头野兽，就是神。”
+such a person must be either a beast or a god." 所以，我们要想全面实现我们的天性
+So we only fully realize our nature, 要想全面发挥我们的能力，
+we only fully unfold our human capacities, 就必须锻炼我们的语言能力，
+when we exercise our faculty of language, 也就是说，要与其他公民思考
+which means when we deliberate with our fellow citizens 善与恶
+about good and evil, 对与错，正义与不正义。
+right and wrong, just and the unjust. “但为什么，我们只能在政治共同体中，锻炼语言能力？”
+"But why can we only exercise our capacity for language in political community?" 你也许会这样问。
+you might ask. 亚里士多德在《尼各马可伦理学》中
+Aristotle gives a second part, a fuller part, 给了一个更完整的回答
+of his answer in the Nichomachean Ethics; 我们的阅读材料中，也其中的节选
+an excerpt of which we have among the readings. 他解释说，政治的讨论、
+And there he explains that political deliberation, 公民生活的行使、
+living the life of a citizen, 统治与被统治之间的交替、权力的分享，
+ruling and being ruled in turn, sharing in rule, 所有这些活动，对美德都是必须的。
+all of this is necessary to virtue. 亚里士多德把幸福定义为
+Aristotle defines happiness 不是最大程度的让快乐超过痛苦，
+not as maximizing the balance of pleasure over pain 而是作为一种活动，一种与美德相一致的
+but as an activity,an activity of the soul 灵魂的活动。
+in accordance with virtue. 他说，每一个学政治的学生必须研究灵魂，
+And he says that every student of politics must study the soul 因为塑造灵魂，是在一个良好的城邦
+because shaping the soul is one of the objects of legislation 立法的目标之一。
+in a good city. 但是为什么为了过上有道德的生活，
+But why is it necessary to live in a good city 必须生活在一个好的城市里?
+in order to live a virtuous life? 我们为什么不能从家庭中，学习好的道德，
+Why can't we just learn good moral principles at home 或从哲学课堂，或从一本书里，
+or in a philosophy class or from a book, 按照那些原则
+live according to those principles, 那些规则，那些准则
+those rules, those precepts, 来生活呢？
+and leave it at that? 亚里士多德说，那种方法是学不到美德的。
+Aristotle says virtue isn't acquired that way. 美德
+Virtue 是只有通过实践，才能获得的
+is only something we can acquire by practicing, 是只有通过运用，才能获得的。
+by exercising the virtues. 它是只能通过做，才能学到的。
+It's the kind of thing we can only learn by doing. 它不能从书本学到。
+It doesn't come from book learning. 在这方面，它很像长笛演奏的例子
+In this respect, it's like flute playing; 学习演奏乐器，你不能够只靠
+you couldn't learn how to play a musical instrument well 读一本书来学，
+just by reading a book about it. 你必须练习，
+You have to practice, 必须聆听，那些有造诣的长笛手的表演。
+and you have to listen to other accomplished flute-players. 还有其他一些实践也是如此，
+There are other practices and skills of this type. 例如，烹调
+Cooking; 我们有烹调书
+there are cookbooks 但从来没有一位大厨，是仅靠书本来学习烹调的
+but no great chef ever learns how to cook by reading a cookbook only. 它只能靠动手做来学习。
+It's the kind of thing you only learn by doing. 讲笑话可能也是一个例子，
+Joke-telling is probably another example of this kind. 但从来没有一位伟大的喜剧演员，只靠读关于喜剧原则的书，
+No great comedian learns to be a comedian just by reading a book 来学会成为一个喜剧演员。
+on the principles of comedy. 那样是不会成功的。
+It wouldn't work. 为什么呢？
+Now, why not? 讲笑话、烹调和演奏乐器，
+What do joke-telling and cooking 这些事物其共同点就是
+and playing a musical instrument have in common 我们不能完全靠领会书籍和讲座上的
+such that we can't learn them just by grasping a precept or a rule 准则或规则来把它学会。
+that we might learn from a book or a lecture? 它们的共同点是需要
+What they have in common is that they are all concerned with 熟练地掌握它。
+getting the hang of it. 当我们学习如何烹调、演奏乐器、或讲笑话时
+But also what is it we get the hang of when we learn how to cook, 我们怎样精通它？
+or play a musical instrument, or tell jokes well? 用心觉察细节，每种情况的特别之处。
+Discerning particulars, particular features of a situation. 这里没有没有规则，没有准则
+And no rule, no precept, 可以告诉喜剧演员、厨师或音乐家
+could tell the comedian or the cook or the great musician 如何培养那种觉察细节、
+how to get in the habit of,the practice of, 和每种情况的特别之处的习惯。
+discerning the particular features of a situation. 亚里士多德说，美德也是那样。
+Aristotle says virtue is that way too. 它与政治生活有什么关联？
+Now, how does this connect to politics? 建立美好生活所需要的美德，其获得的唯一方法
+The only way we can acquire the virtues that constitute the good life 就是去运用美德，反复的教导，
+is to exercise the virtues, to have certain habits inculcated in us, 然后与其他公民们一起，
+and then to engage in the practice of deliberating with citizens 讨论关于善的本性。
+about the nature of the good. 那是政治生活最终要达到的。
+That's what politics is ultimately about. 公民美德的获得
+The acquisition of civic virtue, 与他人研讨的能力的获得
+of this capacity to deliberate among equals, 这些都是在政治生活之外，无法独自得到的。
+that's something we couldn't get living a life alone outside of politics. 这就是为什么，为了实现我们的本性，
+And so, that's why, in order to realize our nature, 我们不得不参与政治生活。
+we have to engage in politics. 这也是为什么，那些最具公民美德的人
+And that's why those who are greatest in civic virtue, 比如伯里克利（古希腊的伟大政治家）
+like Pericles, are the ones 值得享有最高国家官职和荣誉称号。
+who properly have the greatest measure of offices and honors. 所以，关于分配官职和荣誉称号的争论
+So, the argument about the distribution of offices and honors 不仅有这样目的论的特征，
+has this teleological character, 而且还是一个关于彰显荣耀的问题。
+but also an honorific dimension. 因为政治的一部分目的，就是为了给像伯里克利这样的人以荣誉。
+Because part of the point of politics is to honor people like Pericles. 这并不是说，伯里克利之所以拥有统治权
+It isn't just that Pericles should have the dominant say 是因为他有最好的判断力
+because he has the best judgment, 能得出最好的结果，
+and that will lead to the best outcomes, 给公民们带来最佳的结果。
+to the best consequences for the citizens. 尽管这也是对的，而且很重要。
+That's true, and that's important. 但一个更深层的原因，人们觉得伯利克里
+But a further reason people like Pericles 之所以应该拥有最高的
+should have the greatest measure 国家官职、荣誉称号和政治权力，
+of offices, and honors,and political authority, 在城邦里具有支配的能力
+and sway in the polis, 是因为政治的部分目的，就是要挑选并把荣誉归于
+is that part of the point of politics is to single out and honor 那些最具有相关美德的
+those who possess the relevant virtue, 最具有公民美德、公民优点、实践性智慧的人
+in this case civic virtue,civic excellence, practical wisdom, to the fullest extent. 那就是关于荣耀彰显的这个方面
+That's the honorific dimension 与亚里士多德的政治观之间的联系
+bound up with Aristotle's account of politics. 这里有一个例子
+Here's an example 当代的一场争论体现了这种联系
+that shows the link in a contemporary controversy; 它体现了，亚里士多德所要告诉我们的
+the link to which Aristotle draws our attention 正义和权利，以及社会生活的目的，
+between arguments about justice and rights on the one hand 这两者之间的联系。
+and figuring out the telos or the purpose of a social practice on the other. 不仅如此，CaseyMartin和他的高尔夫球车一案中
+Not only that, the case of Casey Martin and his golf cart 也体现了另一种联系，
+also brings out the link between 即一项社会活动或一项体育运动的目的，
+debates about what the purpose of a social practice or a game is, on the one hand 以及何种品质应该获得荣誉，这两者间的联系；
+and the question of what qualities should be honored on the other; 也体现了目的论与
+the link between teleology 分配正义原则之间的联系
+and honor-based principles of distributive justice. CaseyMartin是谁？
+Who was Casey Martin? CaseyMartin是一个非常优秀的高尔夫球手。
+Well, Casey Martin is a very good golfer. 能在最高水平的高尔夫球赛中竞技。
+Able to compete at the highest levels of golf 除有一件事情
+but for one thing; 他患有一种罕见的
+he has a rare 腿部血液循环的疾病，
+circulatory problem in his leg 这使得他行走非常困难。
+that makes it very difficult for him to walk; 不仅困难，而且危险。
+not only difficult but dangerous. 所以，他请求职业高尔夫球协会(PGA)，
+And so he asked the PGA, 这个管理职业巡回赛的组织
+which governs the pro tour in golf, 来允许他参赛时，
+to be able to use a golf cart 能够使用高尔夫球车来代步。
+when he competed in professional tournaments. PGA说不行，
+PGA said no, 于是，他依据《美国伤残法案》提起诉讼，
+and he sued under the Americans for Disabilities Act; 官司一直打到了美国最高法院。
+he sued in a case that went all the way to the United States Supreme Court. 最高法院需要解决的问题就是，
+The question the Supreme Court had to answer was, CaseyMartin是否有权利
+does Casey Martin have a right 让PGA提供和允许他
+that the PGA provide him, allow him, 在巡回赛上，使用高尔夫球车？
+to use a golf cart on the tour, or not? 这儿有多少人认为
+How many here think that, 从道德的角度来看
+from a moral point of view, CaseyMartin应该
+Casey Martin should 有权利使用高尔夫球车？
+have a right to use a golf cart? 有多少人认为，他没有这个权利？
+And how many think that he should not have a right to a golf cart, in the tournaments? 多数人赞同CaseyMartin具有这个权利
+So the majority are sympathetic to Casey Martin's right, 尽管有相当一部分的少数派不同意。
+though a substantial minority disagree. 让我们先听听
+Let's first hear from those of you 那些不支持CaseyMartin的声音
+who would rule against Casey Martin. 为什么你们认为，PGA不需要让他骑高尔夫球车？
+Why would you not say that the PGA must give him a golf cart? 是的。
+Yes. 因为起初提出高尔夫球
+Since the inception of golf, 因为这项体育运动的其中一部分
+because it has been part of the sport 高尔夫一个重要的环节
+it is now intrinsically part of golf; 就是在高尔夫球场上行走，
+walking the course. 所以，行走成为了打高尔夫球的内在的一部分。
+And thus, because it's intrinsic to golf, 我会说，不能在球场上行走，
+I'd argue that not being able to walk the course 就等于是不能完成这项运动的这个方面，
+is just not being able to perform an aspect of the sport, 而对于职业级的水平，这是必要的。
+which is necessary to performing at a professional level. 好的，等一下。
+Good.Stay there for a minute. 你叫什么名字
+What's your name? Tommy
+Tommy. 顺便问下，你是高尔夫球手吗，Tom？
+Are you a golfer, by the way, Tom? 不是经常打，但
+Not so much but, yeah, 打一点
+a little bit. 这里有没有打高球的，
+Are there any golfers here, 我的意思是真正打高尔夫的？
+I mean, real golfers? 谢谢你，教授，那是...
+Thank you, professor, that was... 不，不
+No, no. 我接受你的观点。
+I'm just taking your word for it. 这里有没有人是高尔夫球队的？
+Is there someone here on the golf team? 好的。
+Yes? 请说你的名字，
+Tell us your name, 再告诉我们你是怎么想的。
+and tell us what you think. 我的名字是Michael，
+My name is Michael 而且我通常会开一部高尔夫球车。
+and I usually take a cart. 所以...
+So . . . 可能你不该问我
+I'm probably the wrong person to ask. 当我发问时，你的手举很慢，是不是这个原因？
+Is that why your hand went up slowly when I asked? 是的。
+Yes. 好的，但是Tom说，
+Alright, but Tom is saying, 先前Tom说，至少在职业球手的级别上，
+Tom said a minute ago that at least at the professional level 在球场上行走是打高尔夫球所必不可少的。
+walking the course is essential to the game. 你同意吗？
+Do you agree? 我同意，是的。
+I would, yes. 真的？那你为什么要开球车？
+You do? Then why do you take a cart? 而且，你自称是打高尔夫球的？
+And you call yourself a golfer? 不，不。
+No, no, no. 我在开玩笑，玩笑。
+I'm kidding, I'm kidding. 对此你怎么说？
+What do you say to that? 当我在球场上用腿走之后
+When I have walked the course 这确实给这项运动增添了很多
+it does add tremendously to the game. 这样比赛就更加难了，真的。
+It makes it a lot harder. It really does. 是吗？
+Yeah? 好吧，Michael和Tom留在那儿。
+Alright let's hear, Michael and Tom stay there, 让我们听听那些
+let's hear from people who 认为他有权骑球车的人的意见
+say that he should have a right to a golf cart. 以及为什么？谁准备为这个立场辩护？
+Why? Who is prepared to defend that position? 说吧。
+Yes. 嗯，我想肯定应该要求PGA
+Well, I think the PGA should definitely 允许他骑车一辆球车。
+be required to give him a golf cart 因为这场争论，不只是关于
+because they argue in the decision that it's not just a matter of, 他是不是也体验了这种疲劳。
+he's not experiencing fatigue. 对他而言，他也是走了将近一英里，
+For him he's still walking about a mile, 球车不能在随便开，
+the cart can't go everywhere with him, 在这一英里，他仍感受到比一个健康的球手
+and in that mile he is still experiencing more fatigue and pain 更多的疲倦和痛苦。
+than a healthy player would. 所以，这不是说他想免掉自己的劣势。
+So, it's not as if you're removing the disadvantage. 你叫什么名字?
+What's your name? Riva
+Riva. Riva，对于Tom的观点，认为
+Riva, what do you say to Tom's point 在球场上行走是比赛必不可少的，你怎么看？
+that walking the course is essential to the game? 这就像一位残疾人
+It would be as if 在美国篮球职业联赛上打球，
+a disabled player could play in the NBA 却不必在球场上跑来跑去一样。
+but not have to run up and down the court. 对此我有两个回应。
+Well, I think there are two responses to that. 首先，我不认为行走是这项运动不可缺少的，
+First, I don't think it's essential to the game, 因为绝大多数高尔夫球手，尤其是平常休闲娱乐时，
+because most golfers who play,particularly recreationally, 都会开车。--就像Michael一样
+play with a cart. -- Like Michael. 而且，在某些巡回赛上
+And on several of the tours 你是可以骑车的。
+you can play with a cart; 例如PGA元老级职业高尔夫巡回赛，
+on the Senior PGA Tour, 耐克巡回赛，
+on the Nike Tour, 以及许多的大学赛事
+in a lot of the college events. 这些赛事，也几乎和PGA巡回赛一样
+And those events are just as competitive 高水平、高竞技性。
+and just as high level as the PGA Tour. 所以，如果你争辩说，这是该运动的一个重要部分，
+So, really it's just a matter of selective reasoning 那只是一次有选择的推论。
+if you argue it as an important part of the sport. 哪怕你非得让他走这段路，
+But, even if it is he still does have to walk, 他还是站着打高尔夫球，
+he still plays golf standing up, 这并非说他就可以在轮椅上打高尔夫了。
+it's not as if he's playing golf from a wheelchair. 好的，
+Alright. 还有谁？
+Who else? 说吧。
+Go ahead. 我想比赛的整个目的
+I think the whole point of a competition 就是从第二名、第三名中，挑选出最好的。
+is that it calls out the best, you know, from the second best or from the third best. 而当我们谈论国家级水平，
+And when we're talking about the national level, 我们是在谈论最高级中的最高级。
+we're talking about the highest of the highest. 我想，我们的争论点在于比赛的目的是什么。
+I think what they're arguing about here is the purpose of competition. 而我认为，为了竞赛，你不能改变规则。
+And I think in the sake of competition you can't change the rules. 所以，竞赛的目的需要包括行走？
+So, the purpose of the competition includes walking? 行走是它的一个关键点。你同意Tom.
+That's an essential, you agree with Tom. 你叫什么名字？
+And what's your name? David。
+David. 最高法院裁决
+The Supreme Court ruled PGA得准予CaseyMartin使用球车，
+that the PGA did have to accommodate Casey Martin 而判决的理由是，如Riva所说
+and they did it on grounds that Riva mentioned, 行走并不是这项比赛的真正关键的部分。
+that walking isn't really part of, an essential part of the game. 最高法院的证词说，在高尔夫球场上行走
+They cited testimony saying that walking the court 所消耗的卡路里，比吃下的一个巨无霸（快餐）还少
+consumes no more calories than you get eating a Big Mac. 多数法官都是这样认为。
+That's what walking is in golf, according to the majority. 但Scalia持有异议。
+Scalia was in dissent. Scalia法官赞同David，
+Justice Scalia agreed with David. 他说
+He said 这里根本不存在什么目的，
+there is no purpose, 试图找出高尔夫运动的本质目的，不是我们应该的做法。
+and it's certainly not your course to try to figure out the essential purpose of golf. 像任何一项体育运动一样，高尔夫完全是为了娱乐。
+Golf is like any game, it's strictly for amusement. 而如果有某个团体，打高尔夫为了其他目的，
+And if there's a group that wants to have one version of the game 他们可以那样做。
+they can have that version of the game. 市场可以决定人们是否从中得到娱乐，人们是否喜爱、
+And the market can decide whether people are amused 是否会去现场看或看电视转播。
+and like and show up for that and watch the television broadcasts. Scalia的观点是反亚里士多德派的，
+Scalia's dissent was an anti-Aristotelian dissent, 因为注意看看他的论点的其中两个地方。
+because notice two things about the argument; 其一，我们在讨论的是高尔夫球的
+first we're thrust into a discussion about what the essential nature, 真正本质和目的
+or purpose,or telos of golf really is. 高尔夫包括行走吗？
+Does it include walking? 我认为这场争论的背后是在讨论
+And, here's something I think is rumbling beneath the surface of this debate, 行走是否在一定程度上决定了，高尔夫是否算是一项真正的运动竞赛？
+whether walking partly determines whether golf is really an athletic competition. 毕竟，在高尔夫球是静止的
+After all, the ball sits still. 你必须把它打进洞里。
+You have to put it in a hole. 高尔夫球是否更类似于篮球、棒球和橄榄球？
+Is it more like basketball,baseball, and football? 它是否真的算是一项体力运动竞赛？
+Golf, an athletic competition? 还是说它更像台球？
+Or is it more like billiards? 台球也是静止在那里。
+The ball sits still there too. 就算你身体不好，也能参加。
+You can be out of shape and succeed. 它包含了技巧
+It involves skill 但不是体力运动的技巧。
+but not athletic skill. 会不会是那些擅长高尔夫的人职业球员认为，
+Could it be that those professional golfers, who excel at golf, 把高尔夫作为一项运动项目来被世人认可和尊敬，是十分重要的，
+have a stake in golf being honored and recognized as an athletic event, 而不只是被人当作一项类似于桌球的技巧游戏？
+not just a game of skill like billiards? 假如那是关键的问题，我们就会有一场
+And if that's what's at stake, then we have a debate 关于目的，从目的论的角度的讨论
+about the purpose, the teleological dimension, 以及关于荣誉的讨论。
+and also a debate about honor. 是哪种美德真正
+What virtues, really, 让高尔夫运动值得被荣誉和认可？
+does the game of golf honor and recognize? 亚里士多德的这两个问题引起了我们的关注
+Two questions to which Aristotle directs our attention. 我们下次继续这个案例。
+We'll continue on this case next time. 上次结束时，我们在谈论
+When we ended last time we were talking about CaseyMartin是否有权利在PGA巡回赛中
+whether Casey Martin has a right to ride in a golf cart 以高尔夫球车代步
+in the PGA Tournament. 大家最好回忆一下我们上次的讨论，
+And it's worth remembering how we got into this debate 而什么才是理解政治哲学的关键点。
+and what's at stake for an understanding of political philosophy. 还记得，我们在谈到亚里士多德的正义理论，
+Remember, we were looking at Aristotle's theory of justice 其正义理论的取向
+and one way of describing his approach to justice, 我们称其为“目的论”
+we've called it 'teleological'. 从目的论的角度看来，为了分配权利
+Teleological, because he says to allocate rights 首先我们不得不弄清关于其社会活动
+we first have to figure out the purpose, or the end, 的目的或最终目标。
+of the social practice in question. 其正义理论的另一个取向
+Another way of describing Aristotle's account of Justice 对于亚里士多德来说，关于适宜度的问题；
+is that justice is, for him, a matter of fit; 即让具有美德和才华的人
+it's a matter of fitting persons with their virtues and excellences 配上合适的角色
+to the appropriate roles. 现在，我想先结束关于CaseyMartin
+Now, I want to finish our discussion about Casey Martin 争取以车代步的讨论。
+and his claim for a golf cart, 然后，再回到另一个更深远意义的问题。
+and then go back to one more consequential application in Aristotle, 即奴隶制的问题。
+namely, the question of slavery. 对于CaseyMartin的请求，你是怎么看的？
+What do you think about Casey Martin's request? 我们是否应该为他提供这个方便（以车代步）
+Should there be an accommodation or not, 考虑到这项运动及巡回赛的本质
+given the nature of the game and of the tournament 以及其目的?
+and its purposes? “如果不提供他一部球车，算不算歧视呢？”
+"Isn't it discrimination if he's not provided the golf cart as an accommodation", 一些人说。
+say some. 其他人回应说，“那不算歧视，如果他可以骑车，对其他选手不公平
+Others reply, "No, if he got a cart it would be unfair to the other golfers 因为他们都得花力气，
+because they exert themselves, 在球场上行走，变得气喘吁吁、疲惫
+become winded, fatigued,walking the course". 我们上次讨论到此
+That's where we left it. 大家怎么看关于公平的问题？
+What about the fairness argument? 好，Jenny
+OK, Jenny. 我的问题是
+My question was 为什么PGA不让所有球手都可以
+why doesn't the PGA just make the option of a cart 选择开或不开球车？
+available to all golfers? 通过阅读材料我了解到，许多不是PGA组织的高尔夫巡回赛，
+From our readings I learned that there are many golf tournaments, other than the PGA, 并不禁止使用球车。
+where using a cart is not prohibited. 比如元老级巡回赛，就允许并鼓励使用。
+For instance, the Seniors Tournament it's even allowed and encouraged. 所以,为什么PGA不这么做呢？
+So why doesn't the PGA just do that? 为什么不让所有人都使用球车呢？
+Let everybody use a cart? 允许给所有人使用球车，
+Give everyone the option of using a cart 然后大家选择用还是不用
+and let them pick. 这样的话，那些比较守旧的人可能依旧会说，
+So then the traditionalists can then still say, “好吧，我仍然选择在球场上行走。
+"Well, I still choose to walk the course 尽管我知道，这样会比那些
+but I do that knowing that I will be more tired at the end 开车的人更累。
+than the people who took the cart." 好
+Good. 好的，大家觉得Jenny的提议怎么样？
+Alright, so what about Jenny's solution? 为了公平，
+For the sake of fairness, 为了避免说只给CaseyMartin有（开车的）优势。
+don't give Casey Martin an advantage, （如果开球车真的算是一种优势的话）
+if indeed there is an advantage to riding in a cart. 那就让所有想开球车的人
+Let everyone who wants to 去开吧。
+use a cart. 是不是所有人都对这个方案满意呢？
+Is everyone happy with that solution? 这是否就能平息整个两难困境呢？
+Does it put to rest this whole dilemma? 谁想回应一下Jenny？
+Who has an answer for Jenny? 说吧。
+Yes. 正如上节课提到的
+As was brought up last time, 如果你那样做，你就是有损高尔夫的精神。
+if you do that you kind of ruin some of the spirit of golf 而这种精神是许多人乐意看到的。
+as a lot of people like to see it. 如果你允许每个人开球车，
+If you let everybody take a cart. 就算这样能给予每个人同样的比赛条件，
+Even though it gives everybody the same playing field now, 它让高尔夫更不像一项运动项目，
+it sort of makes golf less of an athletic game, 像上节课有人指出的那样。
+like people pointed out last class. 这就像如果有人决定参加一项体育赛事，
+It's just like if someone decides to go into another sport 而他们想要占点优势。
+and they want an advantage. 比如，假设你去游泳，
+Like, if you have swimming 然后你说，“好吧，他想把脚蹼也穿上
+and then you say, "OK, he wants flippers 为什么我们不允许，所有人在游泳时都穿上脚蹼呢？
+so why don't we just allow everyone to have flippers when they're swimming?" 假设在奥运会游泳赛事上，让人们自由使用脚蹼，
+And what would that do to the Olympic Swimming Competition, 又会发生什么呢？
+if people were free to use, Jenny，我们最好让Jenny来回应这个问题。
+Jenny, we better let Jenny reply to this. Da说，那样好像有损运动竞赛的精神
+Da says it would sort of spoil the spirit of the athletic competition 就好像奥运会游泳项目，你让所有人都可以
+as if in Olympic swimming you let anyone who wanted to 穿上脚蹼比赛。
+swim with flippers. Jenny，你怎么对Da说？
+Alright, Jenny,what do you say to Da? 那会破坏运动的精神。
+It would spoil the spirit of it. 你同样会破坏高尔夫的精神，
+You're also ruining the spirit of golf 如果你不允许一个真正热衷于、而且非常擅长这项运动的人参赛
+by not letting people who are really passionate about the game, and very good at it, 只因在高尔夫的一个方面（他不能达标）
+compete simply because of an aspect of golf which is not, 高尔夫运动的核心是用高尔夫球杆击打球
+the main point of golf is you use the club to make strokes 并把它打入洞中。
+and hit it into a hole. 对不起，我不打高尔夫，
+I'm sorry, I'm not a golfer 但就我所看到的，那才是它的要点。
+but that's basically the gist of the game from what I see it. 我读了PGA和CaseyMartin的裁决
+And I was reading the PGA versus Casey Martin decision 判词中，他们说，
+that was one of the sentences that they said 因为在球场上行走，不是高尔夫的本质部分，
+is because walking the course is not an inherent part of golf, 只有挥动球杆才是。
+only swinging the club is. 好，Jenny回答了Da的问题。
+Good. So, Jenny replies to Da, 那么，在球场上行走真的不是必要的吗？
+well, it isn't really essential anyhow to walk the course. 那么，我们回到对目的的讨论
+So, we're back to the purpose. 我的意思是，我确信，像轮椅篮球一样
+I mean, I'm sure there are, like wheelchair basketball, 我们会有许多不同的竞赛
+there are certain different competitions 允许那些残疾人只需要动动他们的手臂也能参赛
+that can be made for people who may only be able to use their arms. 好的，是
+Right. Yes. Michael你怎么认为？
+Michael what do you think? Jenny刚才说，像轮椅篮球
+Jenny just said that there is stuff like wheelchair basketball 假如你不能打篮球，你还有这个选择
+where if you can't play basketball there is another option. 我想，在PGA巡回赛里有着另外的选择，
+I think there are other options in the PGA Tour. 但PGA巡回赛是最好的、顶级的。
+But the PGA Tour is the best,is the pinnacle, 而你不得不尽全力来完成比赛的要求。
+and you have to have certain requirements fulfilled to perform. 好的，Michael，你想对CaseyMartin说，
+Alright, Michael, you want to say to Casey Martin 我们有残奥会
+there is such a thing as a Special Olympics 供那些残疾人参加。
+for those who are disabled. 去参加残奥会版本的高尔夫赛事吧。
+Go play in the golfing version of the Special Olympics. 那就是你要说的？--是的。
+That's what you would say Michael? -- Yeah. 我认为，行走是高尔夫运动的一部分。
+I think that walking is part of the sport of golf. 而对于CaseyMartin，如果他不能在球场上行走，
+And Casey Martin, you know if he can't walk the course 我不认为他能在PGA比赛。
+then I don't think he should be able to play in the PGA. 好的，非常谢谢你们的争论，
+Alright, well thank you very much for that exchange. 这场争论的什么结论
+What comes out of this exchange 让我们又回到亚里士多德的正义理论？
+that goes back to Aristotle's theory of justice? 其中一点就是
+Well, one thing is the question, 行走是高尔夫的本质部分吗?
+is walking an essential part of golf? CaseyMartin是否拥有，PGA必须去尊重的权利，
+And the very fact that deciding whether there is a right 要决定这件事似乎取决于
+for Casey Martin that the PGA must respect, seems to depend, （这也是亚里士多德所建议的讨论和解决问题的方式）
+as Aristotle suggests it must, on debating and resolving the question, 行走是高尔夫的本质部分吗?
+is walking essential to the game of golf? 这是该故事的其中一个道德问题。
+That's one moral of the story. 而这里还有第二个道德问题，
+But there's a second moral to the story 按照亚里士多德的观点来看。
+from an Aristotelian point of view. 这场讨论的关键之处
+What's at stake here, 也是亚里士多德提出的第二个的关键之处
+this is the second Aristotelian stake in this debate, 就是荣誉。
+is honor. CaseyMartin想争取骑车参赛，那样他就能
+Casey Martin wants the accommodation so that he can compete 去争取PGA这项顶级赛事的荣誉
+for the honor of winning the best tournaments. 现在，为什么
+Now, why is it 那些职业高尔夫球手，那些优秀的球手，
+that the professional golfers,the great golfers, 例如JackNicklaus、TomKite，他们上庭作证时
+testified in this case - Jack Nicklaus, Tom Kite - 在这次阅读材料中，我们看到
+in the readings, 他们反对让他用球车，
+against letting him use a cart 而且我相信，他们同样会强烈反对Jenny
+and they, I would suspect,would be equally vehement, Jenny, 你的让每个人驾驶球车的建议。
+in opposing your suggestion of letting everyone ride in a cart, 从某种意义上，它回到了Da的观点。
+and this goes back, in a way,to Da's point. 让高尔夫轻松点怎么样?
+How to put this gently? 职业高尔夫球手对于
+Professional golfers are sensitive 他们所参加的运动是否是一项真正的运动是十分敏感的。
+about whether their sport is really a sport. 假使每个人都骑着一辆球车，或允许大家这么做
+Because if everyone rode around in a cart, or could, 很显然
+then it would become clear, or clearer, （取决于你们各自的看法）
+depending on your point of view, 高尔夫就不算是一项真正的运动竞技。
+that golf is not really an athletic competition 而只是一个游戏
+but rather a game; 一项技巧的游戏，而非运动。
+a game of skill but not a sport. 这不仅是在讨论目的、目的论的问题
+And so not only the question of debating the purpose, the teleological feature, 而且是在讨论从什么角度，来讨论高尔夫的目的。
+but also from the standpoint of viewing debates about the purpose of golf. 高尔夫球的本质是什么？
+What's essential to golf? 亚里士多德建议说，这些讨论
+Those debates, Aristotle suggests, 都会不可避免的讨论到关于分配荣誉的问题
+inevitably are also debates about the allocation of honor. 因为高尔夫球的部分目的，
+Because part of the purpose of golf 不仅仅是娱乐观众；
+is not just to amuse spectators; 从亚里士多德的观点来看，Scalia在这点上错了。
+Scalia's wrong about that, from Aristotle's point of view. 它不仅仅是提供娱乐，
+It's not just to provide entertainment, 不仅仅是让人们快乐，
+it's not just to make people happy. 它不仅仅是一项娱乐。
+It's not a mere amusement. 它是荣誉，是奖赏，
+It's honoring, it's rewarding, 它在认可一种特定的运动才能，
+it's recognizing a certain kind of athletic excellence, 至少那些取得过高尔夫最高荣誉的人，
+at least those who have achieved the highest honors 都会强烈地支持这种观点。
+have a powerful stake in maintaining that view. 你们中有些人站在了Scalia的立场。
+Now, some of you took the position the Scalia position. Scalia说：“这是一个非常困难的、愚蠢的问题。”
+"This is an incredibly difficult and silly question", Scalia said. “高尔夫的本质是什么？”
+"What is the essential nature of golf?" 那不是美国最高法院能够回答
+It's not the kind of thing that the United States Supreme Court 或者应该回答的问题。
+is equipped to decide,or should decide. 那就是Scalia的观点
+That's Scalia. 而他说...
+But he only he says that 对于高尔夫的本质是什么这个问题，
+because he takes a very strong,and as it happens, 他碰巧采取了一种强烈的反亚里士多德派的立场，
+anti-Aristotelian position on what a game is. “一项游戏的真正内涵是没有目的的，”
+"It is the very nature of a game to have no object, " （即没有所谓的关键点）
+no point, “除了娱乐（的目的）”，Scalia说。
+"except amusement" says Scalia, 他说，“那是游戏和生产活动之间的区别所在。”
+"That is what distinguishes games" he says, "From productive activity." 你可以想象，Scalia会是哪种体育的爱好者。
+You can just imagine what kind of sports fan Scalia must be. “还有”，他说，
+"And so", he says, “我们不能说，游戏的任何一种主观的规则就是其本质。”
+"It's impossible to say that any of the game's arbitrary rules is essential." 然后，他援引了马克·吐温关于高尔夫的
+And then he quotes Mark Twain's disparaging remark 贬低性评论。
+about golf. 他说：“许多人视行走为高尔夫的首要特征。”
+He says, "Many consider walking to be the central feature of golf. 这里是马克·吐温对其的经典批评：
+Hence, Mark Twain's classic criticism of the sport ‘一次的好好散步被破坏了。’”
+'a good walk spoiled'." 但是Scalia忽略了
+But Scalia misses 游戏的一个重要特点
+an important feature of games 还有当讨论到权利和公平的问题时
+and the arguments about rights and fairness that arise from games, 他说游戏、体育、运动性竞技，
+when he casts games,sports, athletic competitions, 只是单单为了娱乐
+as solely for the sake of amusement; 只是一项功利主义的消遣。
+as solely an utilitarian activity. 而一个持亚里士多德观点的人会说
+But an Aristotelian view of sports says, 不，这不只是关于娱乐。
+no it's not just about amusement, 真正的体育，真正的运动项目，
+real sports,real athletic events, 还是一种欣赏，不只是娱乐。
+are also about appreciation,not just amusement. 那些看体育的、关心体育、参与体育的人
+And people who follow sports and care about sports 都了解这一点。
+and play sports know this. 换句话说，
+Which is another way of saying, 观赏体育和纯粹看大场面是有区别的，
+there's a difference between a sport and a mere spectacle. 区别在于，体育是一项实践活动，
+And the difference is that a sport is a practice 它召唤力量、荣誉和奖赏，
+that calls forth and honors and prizes 还有特定的才能、特定的美德。
+certain excellences,certain virtues. 而那些会欣赏这种美德的人
+And the people who appreciate those virtues 才是真正的、有见识的体育迷。
+are the true fans, the informed  fans, 对于他们，看体育比赛不只是娱乐，
+and for them watching the sport is not mere amusement. 而这意味着，我们总是能找到
+But that means that it's always possible to make sense of the debate about 什么是一项体育的本质特征
+what feature of a sport is essential to it. 我们是可以弄清这些争论的。
+We can make sense of these arguments. 而无需在意是否应该由法庭做这个判断。
+Never mind the question whether the court should decide. PGA在自己内部的审议里
+The PGA in its own internal deliberations 能够弄清这个问题，
+can make sense of that debate, 这就是为什么，他们会非常在意他们的观点，
+which is why they cared very much about their view, 坚持他们的观点，
+insisting on their view, 坚持认为行走、（以及其带来的）费力、疲劳，
+that walking,an exertion, and fatigue 是体育的本质部分，而非无关紧要的。
+are essential, not peripheral,parts of sport. 这些阐释了
+Well, this is all to illustrate 目的和荣誉的这两个特征。
+the teleological and the honorific feature of debates about rights, 亚里士多德说，我们在思考正义时要考虑到这两点。
+which Aristotle says we need to take account of in thinking about justice. 现在，我想让大家思考
+Now, I want to begin for us to consider 亚里士多德的正义理论
+whether Aristotle's theory of justice 是否正确。
+is right or wrong; 是否有说服力
+whether it's persuasive or unpersuasive. 我要听听你们对此的想法。
+I want to get your thoughts about that. 我希望看到有人提出鲜明的、重要的反对意见。
+But I want to anticipate one obvious and important objection. 如果公正是关于适宜度的问题，找到人们合适的角色。
+If justice is about fit,fitting persons to roles, 让那些具有美德的人
+matching virtues 找到合适的荣誉和承认。
+to the appropriate honors and recognition. 如果那就是正义，
+If that's what justice is, 那么，它还留下自由的空间吗？
+does it leave room for freedom? 这是对亚里士多德的正义的目的论说法
+And this is one of the main objections 主要反对意见之一，
+to Aristotle's teleological account of justice. 如果某些特定的角色、社会角色，
+If certain roles,social roles, 就是我恰当的、合适担当的角色。
+are fitting,or appropriate, to me 那么，我还有权为自己选择
+where does that leave my right 我的社会角色,
+to choose my social roles, 和我的生活目标吗？
+my life purposes,for myself? 目的论给自由留下了空间吗？
+What room does teleology leave for freedom? 事实上，你可能会记得，
+And in fact,you may remember, 罗尔斯否认正义的目的论说法。
+Rawls rejects teleological accounts of justice 因为他说，
+because he says that 正义的目的论的理论
+teleological theories of justice 威胁到了
+threaten 公民们平等的基本权利。
+the equal basic rights of citizens. 所以，让我们开始检验一下
+So, let's begin to examine 亚里士多德是不是正确的？
+whether Aristotle is right, 特别是，他思考正义的目的论方法
+and in particular, whether his teleological way of thinking about justice 是否与自由相冲突。
+is at odds with freedom. 现在，一个明显需要我们担心的理由是
+Now, one obvious reason to worry 亚里士多德为奴隶制的辩护。
+is Aristotle's defense of slavery. 他维护奴隶制。
+He defends slavery, 奴隶制是他那个时代雅典的一种制度。
+which existed as an institution in the Athens of his day. 他是怎样为奴隶制辩护的呢？
+Well, what is his defense of slavery? 要让奴隶制是公正的，
+Two things, two conditions,have to be met 需要满足两件事、两个条件，
+for slavery to be just. 首先，奴隶制是必须的。
+First, it has to be necessary. 亚里士多德说，至少在我们的社会中，
+and Aristotle says,at least in our society, 奴隶制是必须的。
+slavery is necessary. 为什么它是必须的?
+Why is it necessary? 如果要让其中一些公民无需参
+If there are to be citizens 手工作业，以及奴仆性的、家务性的杂活，
+who are freed from manual and menial and household chores 从而去参加集会，去研讨政治。
+to go to the assembly,to deliberate about politics, 那么，就不得不让另一些人去干那些奴仆性的工作，
+there have to be some who look after those menial tasks; 这些维持生活所必须的工作。
+the mere necessities of life. 他说，除非你们能发明一些科幻的，
+He says, unless you could invent in some science-fiction 或技术设备，
+a technological fix 然后让它们代替那些奴隶
+then there are going to be those who have to do 去完成这些艰苦的家务活。
+the hard and difficult and menial labor 假如一些公民们要去研讨善
+if there are going to be citizens deliberating about the good 要想实现自己本性。
+and realizing their nature. 所以，奴隶制是必须的
+So slavery is necessary 那是为了过上城邦生活，
+for the life of the polis 为了让一些公民有这个机会
+for there to be open to citizens. 为了参与研讨、辩论的、实践智慧的生活，
+The life of deliberation,of argument, of practical wisdom. 当然，这里需要满足一些更为深入的条件，
+But there's a further condition that has to be met. 奴隶制不仅是作为维持整个社群所是必须的，
+Slavery has not only to be necessary for the community as a whole to function, 而且它现实就是如此。还记得刚才关于适宜度的那个标准吗？
+but it also has to be the case, remember the criterion of fit? 不得不有奴隶制，因为对于一些人来说
+It also has to be the case that there are some people 成为一个奴隶，是公平的，或者说是恰当的，
+for whom being a slave is the just, or the fitting, 或者说这些人具备了适合的条件。
+or the appropriate condition. 亚里士多德按照他自己的标准，
+Now, Aristotle agrees that by his own standards, 赞同说，想要奴隶制是公平的，
+both of those conditions must be met, must be true, 就必须满足这些条件。
+if slavery is to be just. 在一段凄惨的文字中，
+And then,in a deplorable passage, 他说，确实有一些人，他们的天性就适合去做奴隶，
+he says, well, it is true that there are some people who are fit by nature 他们有成为奴隶的素质。
+who are cut out to be slaves. 而另外有些人，他们则有别于一般人，
+These are people who differ from ordinary people 尽管有同样的身躯，却有不一样的灵魂，
+in the same way that the body differs from the soul. 有些人就是要被统治，
+These are people who are meant to be ruled, 对于他们来说，
+and for them 成为奴隶，就是实现他们本性的最佳途径。
+their nature is best realized if they're slaves. 他们可以从其他人身上认识到理性，
+They can recognize reason in others 但他们无法参与其中，也无法运用理性。
+but they can't partake of it,they can't exercise it. 而我们多多少少了解到这点。
+And somehow we can know this. 亚里士多德一定料到，这样说是危险的，
+Now, Aristotle must have known that there was something dodgy, 这种说法是有压力。
+something strained about this claim, 因为他很快知道，那些不支持他的人会有一个观点。
+because he quickly acknowledges that those who disagree may have a point. 而那些不同意的人，会指出一点
+And what those who disagree point out is 在雅典，有许多人是奴隶，
+that there are a lot of people in Athens who are slaves 不是因为他们生来就是奴隶，或适合当奴隶，
+not because they were born to be slaves, or fit to be slaves, 只因为他们被俘虏了，他们是战争的失败者。
+but because they were captured, they were losers in a war. 所以，亚里士多德承认，在现实中，古代雅典里
+And so, Aristotle admits that as practiced in ancient Athens, 奴隶身份不一定是他们真的合适
+slavery didn't necessarily line up with who actually is fit 或天生做奴隶。
+or born to be a slave, 因为一些现实中的奴隶，只是因为不走运，
+because some actual slaves just were slaves by bad luck, 在战争中被俘虏而成为了奴隶。
+by being captured in a war. 按亚里士多德的论述，
+And on Aristotle's own account 就算是因为公民的缘故，必须要有奴隶制度，
+even if it's necessary to have slavery for the sake of citizenship 但如果一个人不适宜当奴隶，而被分配到这个角色，
+it's unjust if people who aren't properly slaves 那是不公平的，
+are cast in that role. 是不合适的。
+There is a misfit. 亚里士多德承认，让那些不适合的人成为奴隶，这样的奴隶制度
+Aristotle recognizes that slavery for those who aren't fit for the task 是一种强迫。
+is a kind of coercion. 说奴隶制是错的原因，不在于它是强迫的。
+The reason slavery is wrong is not because it's coerced. （尽管）强迫也是表明它就是错的一个指标，
+Coercion is an indicator that it's wrong, 因为这种奴隶身份并非出于本性。
+because it's not natural. 假如你不得不强迫某些人担当一个角色，
+If you have to coerce someone into a role 这明显说明，他们不属于那里，
+that's a pretty good indication that they don't belong there, 这个角色不适合他们，
+that that role isn't fitting for them. 而亚里士多德承认这点。
+And Aristotle recognized this. 所有这些，关于亚里士多德
+So, all of this is to say the example of slavery, 为奴隶制辩护的例子，
+Aristotle's defense of it, 并非说明了，目的论的原则、
+doesn't show that there isn't anything wrong in principle 人和角色之间要匹配的这种正义的观念
+with teleological argument,with the idea of justice as fit 其中一些地方是错误的，
+between persons and roles, 因为我们完全可以用亚里士多德自己的说法，
+because it's perfectly possible within Aristotle's own terms, 来解释这个实际应用的问题
+to explain what's wrong with this application, 错在哪里。
+this practical application that he made of his theory. 我想以自由的名义，来对亚里士多德进行一个更大的挑战。
+I want to turn to the larger challenge to Aristotle in the name of freedom. 但在那么做之前，
+But before I do that 我想看看，人们是怎么想的
+I want to see what people think 对于亚里士多德的这个正义即适宜度的说法，
+of Aristotle's account of justice as fit, 他的这种目的论的方式，
+his teleological way of reasoning about justice 以及荣耀彰显的角度
+and the honorific dimension of rights 还有我们对
+and of distributive justice 长笛、政治生活和高尔夫的讨论中出现的分配正义问题。
+that immerged in our discussion of flutes and politics and golf. 你们可以借此弄清楚没听明白的地方。
+Questions of clarification about Aristotle 或者提出反对理由。
+or objections to his overall account. 说吧。
+Yes. 我反对亚里士多德的理由在于
+My objection to Aristotle 他想帮人们匹配到一个相应的角色。
+is that he wants to match a person to a role. 如果你像个海盗一样走路和说话，
+And, you know, if you walk like a pirate and you talk like a pirate, 那么，你应该去当海盗。这是正确的。
+you know, you should be a pirate.And that is what is right. 我觉得，亚里士多德的观点
+And so what's strange and seems paradoxical to me 其奇怪和自相矛盾的地方在于
+about Aristotle's view point 如果你像一个海盗一样走路和说话，
+is that if you walk like a pirate and you talk like a pirate 你就不能当投资银行家，
+you shouldn't be an investment banker, 因为那不是你本性该要做的。
+because that's not what you're inherently supposed to do. 假设你有一条假腿、一个眼罩
+If you have a peg leg and an eye patch 和一副不满的性格，
+and a disgruntled disposition,you know, 你应该去到海盗船上远海航行。
+you should be on a pirate ship on the high seas. 所以他没有...
+So he doesn't... 但有些人会说
+Some would say 这两种职业之间的差别
+that the distinction between the two vocations 不像你说的那么大
+is not as clear as you suggest. 不过你说的很好。
+Alright, but that's good. 我理解你的观点。
+I take your point. 好的，继续。
+Yes, go ahead. 这似乎忽视了个人权利。
+It just seems to ignore individual rights. 我也许是全世界最好的看门人。
+So, I might be the perfect janitor in the whole world 我能把那份工作干得最有效率，
+and I can do that job the most efficiently 好过现今世上的所有人。
+out of anybody that exists right now, 但也许我不想从事它。
+but I might not want to do that. 也许我想从事其他某种职业，
+I might want to do any other number of pursuits 对我来说似乎不是一个真正好的选择。
+and it seems to say that that isn't really a good option for me. 好的，你的名字？
+Alright, and what's your name? --Mary-Kate。--好。
+-- Mary-Kate. -- Good. 让我们再听两个人的发言。
+Alright, let's take a couple more. 说吧。
+Yes. 我想，在高尔夫球车的争论中
+I think that the golf cart exchange 提到了一点，是我反对
+sort of brought up what I see as my main objection 这种目的论的推论模式的主要理由。
+to this teleological mode of reasoning. Michael，我想那是你的名字，对吧？
+I mean, Michael, I think that's your name, right? Michael认为，行走是高尔夫的内在部分。
+Believes that walking is an inherent part of golf. 而我自己则认为，行走不是其内在部分。
+Myself, I believe that walking is not an inherent part of golf. 我感觉，无论花多长时间，
+And I feel that no matter how long 去争论这一点，
+we debate this particular point of contention 都永远不会达不成一致的意见。
+we're never going to reach an accord. 我认为，目的论的推论方式
+The teleological framework of reasoning,I believe, 不会真正地让我们达成任何一致的意见。
+doesn't really allow us to come to any sort of agreement. 好的，你的名字？
+Alright,and what's your name? --帕特里克。--帕特里克，
+-- Patrick. -- Patrick. 让我来试着回答这些反对的理由。
+Alright, let me try to address this set of objections to Aristotle. 先从Patrick的理由开始。
+Let me start with Patrick's; 那是一条重要的反对理由。
+it's an important objection. 我们争论了行走是否是高尔夫的本质，
+We had a debate about whether walking is essential to golf, 就是在这样一个看上去微不足道的小事中，
+and even in so seemingly trivial,or at least contained, a case as that, 我们都不能够达成一致的意见。
+we couldn't agree. 那么我们怎么可以期待，
+How can we possibly hope to agree? 在一些更重要的事情上
+When the stakes are higher 例如政治共同体的基本目的、最终目的时
+and when we're debating the fundamental purposes, or ends, 达成一致的意见？
+of political community. 因此，如果我们不能对
+And so, if we can't agree in 公众生活的目的达成一致的意见，
+what the ends or the goods of our shared public life consist in, 那我们怎么能根据
+how can we base justice and rights 什么是它们的目标、目的、美德所在，
+on some notion of what the end, 来判读正义与否呢？
+or the purpose,or the good consists in? 这是一个重要的反对理由，
+That's an important objection. 以致当代的政治理论担心
+So much so that much modern political theory takes that worry 人们会在这些问题出现分歧，
+about disagreement over the good as its starting point, 于是得出一个结论：正义、权利和宪法
+and concludes that justice and rights and constitutions 不能依附于任何一个善的观念、
+should not be based on any particular conception of the good 或政治生活的目的上。
+or the purposes of political life, 相反，我们应该提供一个
+but should, instead,provide a framework of rights 让人们自由选择他们自己所认为的善
+that leaves people free to choose their conceptions of the good, 选择他们自己的生活的目的。
+their own conceptions of the purposes of life. 现在，Mary-Kate说，“如果一个人非常适合做某个角色，
+Now, Mary-Kate said, "What if a person is very well suited to having a certain role, 比如，看门人的角色。
+like the role of being a janitor, 但他却想做其他角色，想达到更高的成就，
+but wants something else, wants to reach higher, 想要选择另外一种生活，那该他怎么办？”
+wants to choose another way of life?" 所以，这就回到了关于自由的问题。
+So, that goes back to this question about freedom. 如果我们确定
+If we take our bearings as persons 某些角色就是适合我们的天性，
+from roles that are said to fit our nature, 那么，这个角色是什么至少应该由我们自己决定？
+shouldn't it at least be up to us to decide what those roles are? 应该是由我们自己决定，什么角色是适合于我们的？
+In fact, shouldn't it be up to us to define what roles are suitable to us? 这就让我们回到了
+And that's going to take us back 亚里士多德
+to the confrontation between Aristotle on the one hand 与康德、罗尔斯，这两种观点的对峙。
+and Kant and Rawls on the other. 康德和罗尔斯认为，Patrick讲的是有道理的。
+Kant and Rawls think Patrick has a point. 他们说，正是因为在一个多元社会中，
+They say precisely because people disagree in pluralist societies 对于美好生活的本质这个问题，会有分歧，
+about the nature of the good life, 我们就不应该试图将正义建立在任何一种特定的看法，
+we shouldn't try to base justice on any particular answer to that question. 所以，他们拒绝目的论。
+So they reject teleology, 他们拒绝，将正义与某个善的概念联系在一起。
+they reject the idea of tying justice to some conception of the good. 罗尔斯式、康德式的自由主义者们说
+What's at stake in the debate about teleology, 在讨论目的论时，其关键之处
+say Rawlsian and Kantian liberals, 如下：
+is this; 如果把正义的判断标准依附于某个特定的对善的看法，
+if you tie justice to a particular conception of the good, 如果你把正义看作是，一个人和他/她的角色之间的匹配的话，
+if you see justice as a matter of fit between a person and his or her roles, 你没有给自由留下空间，
+you don't leave room for freedom, 而想要自由就是要不依赖于
+and to be free is to be independent of 从我的父母或者我所在的社会，所留下来的
+any particular roles, or traditions, or conventions 任何特定的角色、传统、习俗约定。
+that may be handed down by my parents or my society. 为了在这两大观点之间做出选择，
+So, in order to decide as between these two broad traditions, 究竟是亚里士多德是正确的，还是康德和罗尔斯?
+whether Aristotle is right, or whether Kant and Rawls are right, 我们需要详细研究：权利是否优先于善？
+we need to investigate whether the right is prior to the good, 这是问题一。
+question one, 我们还需要研究，成为自由人，一个自由的道德主体
+and we need to investigate what it means to be a free person, 意味着什么。
+a free moral agent. 自由是否要求，作为一个选择主体的我，
+Does freedom require that I stand for toward my roles, 就得去坚守我自身的目的？
+my ends, and my purposes as an agent of choice? 还是说，我得去寻找发现我真正的天性？
+Or as someone trying to discover what my nature really is? 这两大问题，我们下次会继续讨论。
+Two big questions and we'll take them up next time. 英文字幕：http://forum-network.orgxiaolai
+中文字幕：蓬云道意
+校对：何_何
+http://forum-network.org  xiaolai 
+
+
+
+ Chapter 10: 共同责任的辩论
+
+
+
+
+
+
+ Chapter 11: 同性婚姻的争论
+
+
+
